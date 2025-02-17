@@ -1,0 +1,1001 @@
+TransactionID,Date,StoreID,CustomerID,ProductID,Category,Quantity,UnitPrice,TotalAmount,PaymentType,DiscountApplied,LoyaltyMember
+1,2024-01-01,7,3007,74,Groceries,3,35.67,107.01,Credit Card,No,No
+2,2024-01-02,4,3006,93,Groceries,4,68.07,272.28,Digital Wallet,No,No
+3,2024-01-03,8,3490,10,Toys,4,76.09,304.36,Digital Wallet,No,No
+4,2024-01-04,5,2790,76,Toys,3,2.45,7.3500000000000005,Cash,Yes,No
+5,2024-01-05,7,1327,94,Electronics,2,21.52,43.04,Credit Card,No,Yes
+6,2024-01-06,3,4125,1,Household,1,71.61,71.61,Cash,No,Yes
+7,2024-01-07,7,3808,5,Electronics,3,39.28,117.84,Digital Wallet,No,No
+8,2024-01-08,8,4310,20,Clothing,1,66.59,66.59,Cash,No,No
+9,2024-01-09,5,4300,8,Groceries,1,35.35,35.35,Cash,No,Yes
+10,2024-01-10,4,3626,43,Groceries,3,39.68,119.03999999999999,Digital Wallet,No,Yes
+11,2024-01-11,8,4122,76,Groceries,4,16.71,66.84,Credit Card,Yes,Yes
+12,2024-01-12,8,4680,1,Electronics,1,26.56,26.56,Cash,Yes,Yes
+13,2024-01-13,3,4675,57,Electronics,1,60.94,60.94,Digital Wallet,Yes,Yes
+14,2024-01-14,6,4054,64,Groceries,2,43.88,87.76,Credit Card,Yes,No
+15,2024-01-15,5,2287,84,Electronics,4,77.66,310.64,Digital Wallet,Yes,No
+16,2024-01-16,2,4489,28,Toys,1,85.41,85.41,Cash,Yes,No
+17,2024-01-17,8,4874,37,Toys,2,54.62,109.24,Credit Card,No,No
+18,2024-01-18,6,3143,47,Electronics,4,76.07,304.28,Credit Card,No,Yes
+19,2024-01-19,2,2111,76,Groceries,3,31.38,94.14,Digital Wallet,No,No
+20,2024-01-20,5,4149,37,Electronics,3,42.08,126.24,Digital Wallet,No,Yes
+21,2024-01-21,1,2311,49,Electronics,2,71.56,143.12,Digital Wallet,No,Yes
+22,2024-01-22,6,4191,44,Electronics,3,39.23,117.69,Credit Card,No,Yes
+23,2024-01-23,9,3861,56,Clothing,1,59.26,59.26,Credit Card,Yes,Yes
+24,2024-01-24,1,3538,28,Toys,4,19.35,77.4,Cash,No,Yes
+25,2024-01-25,3,4983,79,Household,1,60.38,60.38,Credit Card,Yes,Yes
+26,2024-01-26,7,1451,6,Household,1,86.29,86.29,Cash,Yes,Yes
+27,2024-01-27,4,2523,61,Clothing,3,87.0,261.0,Digital Wallet,No,No
+28,2024-01-28,9,1164,20,Electronics,1,72.71,72.71,Digital Wallet,No,Yes
+29,2024-01-29,3,1181,78,Clothing,3,74.83,224.49,Credit Card,No,No
+30,2024-01-30,5,3516,2,Clothing,4,56.23,224.92,Digital Wallet,No,No
+31,2024-01-31,3,1909,73,Groceries,4,58.88,235.52,Digital Wallet,No,Yes
+32,2024-02-01,7,3782,37,Toys,1,14.23,14.23,Credit Card,No,Yes
+33,2024-02-02,5,1822,20,Household,2,44.94,89.88,Cash,No,No
+34,2024-02-03,9,1943,26,Electronics,3,45.63,136.89000000000001,Credit Card,Yes,No
+35,2024-02-04,7,3001,29,Household,3,95.89,287.67,Cash,No,No
+36,2024-02-05,2,3054,1,Household,1,43.68,43.68,Credit Card,No,No
+37,2024-02-06,4,1329,35,Toys,3,55.38,166.14000000000001,Credit Card,Yes,Yes
+38,2024-02-07,9,1774,70,Household,3,53.79,161.37,Digital Wallet,No,Yes
+39,2024-02-08,2,4744,59,Household,2,64.04,128.08,Credit Card,No,Yes
+40,2024-02-09,9,3198,69,Clothing,2,75.08,150.16,Credit Card,Yes,No
+41,2024-02-10,5,4156,33,Toys,1,23.28,23.28,Cash,No,Yes
+42,2024-02-11,2,1146,51,Groceries,2,53.34,106.68,Digital Wallet,No,No
+43,2024-02-12,4,4695,78,Electronics,1,82.77,82.77,Cash,No,Yes
+44,2024-02-13,7,4452,12,Household,4,46.85,187.4,Cash,No,No
+45,2024-02-14,8,1914,20,Electronics,1,28.57,28.57,Digital Wallet,No,Yes
+46,2024-02-15,3,2571,53,Groceries,4,65.82,263.28,Digital Wallet,No,Yes
+47,2024-02-16,1,2308,88,Electronics,1,82.55,82.55,Digital Wallet,Yes,No
+48,2024-02-17,4,3747,43,Groceries,3,7.25,21.75,Credit Card,No,No
+49,2024-02-18,2,1081,98,Clothing,2,77.9,155.8,Digital Wallet,No,No
+50,2024-02-19,8,1513,89,Household,4,82.34,329.36,Digital Wallet,Yes,No
+51,2024-02-20,4,2920,50,Groceries,1,46.69,46.69,Digital Wallet,Yes,No
+52,2024-02-21,2,3862,29,Electronics,2,98.35,196.7,Cash,No,Yes
+53,2024-02-22,6,3756,57,Household,1,78.88,78.88,Cash,Yes,No
+54,2024-02-23,6,2939,39,Clothing,2,77.59,155.18,Credit Card,No,Yes
+55,2024-02-24,4,4594,95,Household,2,75.04,150.08,Cash,No,Yes
+56,2024-02-25,6,1745,56,Groceries,1,15.91,15.91,Credit Card,Yes,Yes
+57,2024-02-26,2,4070,43,Clothing,4,22.51,90.04,Cash,No,Yes
+58,2024-02-27,2,2409,50,Electronics,4,46.94,187.76,Digital Wallet,No,Yes
+59,2024-02-28,4,1706,23,Clothing,3,27.14,81.42,Cash,Yes,No
+60,2024-02-29,8,1470,44,Clothing,2,42.11,84.22,Credit Card,Yes,No
+61,2024-03-01,7,4190,38,Toys,3,88.96,266.88,Cash,Yes,Yes
+62,2024-03-02,9,1395,84,Clothing,3,82.61,247.82999999999998,Digital Wallet,Yes,Yes
+63,2024-03-03,8,2555,23,Clothing,1,63.37,63.37,Credit Card,No,No
+64,2024-03-04,5,3308,45,Household,1,85.95,85.95,Digital Wallet,Yes,No
+65,2024-03-05,2,1804,52,Electronics,1,78.59,78.59,Digital Wallet,Yes,Yes
+66,2024-03-06,5,1933,80,Household,2,43.47,86.94,Credit Card,Yes,No
+67,2024-03-07,8,2279,50,Household,1,20.91,20.91,Digital Wallet,Yes,No
+68,2024-03-08,9,2757,8,Groceries,1,51.91,51.91,Digital Wallet,Yes,No
+69,2024-03-09,9,1904,85,Household,2,73.89,147.78,Cash,No,Yes
+70,2024-03-10,1,4297,1,Toys,2,44.21,88.42,Digital Wallet,Yes,No
+71,2024-03-11,9,2076,8,Toys,4,67.01,268.04,Digital Wallet,No,Yes
+72,2024-03-12,7,3987,29,Groceries,1,10.34,10.34,Digital Wallet,Yes,Yes
+73,2024-03-13,9,2890,96,Electronics,1,75.05,75.05,Digital Wallet,Yes,Yes
+74,2024-03-14,8,2523,5,Electronics,1,81.46,81.46,Credit Card,Yes,Yes
+75,2024-03-15,1,4577,86,Household,4,70.98,283.92,Cash,Yes,Yes
+76,2024-03-16,8,3901,47,Household,1,96.76,96.76,Digital Wallet,Yes,No
+77,2024-03-17,8,2387,34,Household,4,82.84,331.36,Digital Wallet,Yes,Yes
+78,2024-03-18,3,2303,65,Electronics,3,90.41,271.23,Credit Card,Yes,Yes
+79,2024-03-19,1,1592,55,Clothing,4,93.42,373.68,Digital Wallet,Yes,Yes
+80,2024-03-20,8,3761,90,Toys,3,80.33,240.99,Credit Card,No,No
+81,2024-03-21,3,4229,43,Clothing,1,67.75,67.75,Cash,Yes,No
+82,2024-03-22,3,3679,74,Clothing,3,1.57,4.71,Cash,No,No
+83,2024-03-23,1,3106,30,Electronics,4,47.12,188.48,Digital Wallet,Yes,No
+84,2024-03-24,5,4798,82,Clothing,2,57.55,115.1,Digital Wallet,No,No
+85,2024-03-25,7,1127,17,Groceries,3,31.1,93.30000000000001,Digital Wallet,Yes,No
+86,2024-03-26,9,1735,26,Household,3,32.49,97.47,Credit Card,Yes,No
+87,2024-03-27,7,3768,8,Groceries,1,96.15,96.15,Digital Wallet,Yes,Yes
+88,2024-03-28,9,4953,47,Toys,4,89.28,357.12,Digital Wallet,No,Yes
+89,2024-03-29,8,4186,76,Household,3,85.07,255.20999999999998,Cash,No,No
+90,2024-03-30,2,4280,91,Clothing,3,41.2,123.60000000000001,Digital Wallet,No,Yes
+91,2024-03-31,1,3573,72,Toys,3,2.36,7.08,Cash,No,Yes
+92,2024-04-01,7,1520,89,Household,3,8.94,26.82,Digital Wallet,Yes,No
+93,2024-04-02,7,3599,46,Clothing,2,31.91,63.82,Cash,Yes,Yes
+94,2024-04-03,8,1236,68,Groceries,4,2.56,10.24,Digital Wallet,Yes,Yes
+95,2024-04-04,5,2304,33,Household,1,2.7,2.7,Cash,No,No
+96,2024-04-05,3,4430,1,Clothing,1,91.74,91.74,Credit Card,Yes,Yes
+97,2024-04-06,8,4272,19,Groceries,2,70.91,141.82,Cash,No,No
+98,2024-04-07,6,2781,31,Toys,4,31.59,126.36,Cash,No,No
+99,2024-04-08,3,2301,80,Toys,3,14.13,42.39,Cash,No,Yes
+100,2024-04-09,1,4306,14,Toys,2,51.65,103.3,Digital Wallet,No,Yes
+101,2024-04-10,3,3541,53,Toys,4,1.53,6.12,Digital Wallet,No,Yes
+102,2024-04-11,5,3051,48,Electronics,3,93.9,281.70000000000005,Digital Wallet,Yes,No
+103,2024-04-12,3,3713,69,Household,2,42.07,84.14,Credit Card,No,No
+104,2024-04-13,1,1441,90,Household,4,40.83,163.32,Credit Card,No,No
+105,2024-04-14,5,3076,62,Electronics,1,39.67,39.67,Cash,Yes,Yes
+106,2024-04-15,7,4180,92,Clothing,1,7.86,7.86,Credit Card,No,Yes
+107,2024-04-16,7,3657,66,Clothing,4,64.19,256.76,Cash,No,No
+108,2024-04-17,9,4798,64,Toys,1,73.57,73.57,Cash,Yes,Yes
+109,2024-04-18,3,1804,70,Groceries,4,67.94,271.76,Cash,Yes,Yes
+110,2024-04-19,7,1074,63,Clothing,3,14.71,44.13,Credit Card,Yes,No
+111,2024-04-20,1,3885,73,Groceries,4,58.31,233.24,Digital Wallet,No,No
+112,2024-04-21,4,4217,33,Household,3,57.38,172.14000000000001,Credit Card,Yes,Yes
+113,2024-04-22,4,3175,41,Groceries,2,86.97,173.94,Cash,Yes,No
+114,2024-04-23,5,4924,89,Household,4,38.53,154.12,Cash,Yes,Yes
+115,2024-04-24,7,3089,48,Electronics,2,37.78,75.56,Credit Card,No,No
+116,2024-04-25,7,2379,13,Electronics,1,62.23,62.23,Cash,Yes,No
+117,2024-04-26,4,1040,73,Toys,3,63.67,191.01,Cash,No,No
+118,2024-04-27,7,3981,77,Clothing,4,47.46,189.84,Credit Card,No,Yes
+119,2024-04-28,3,3081,31,Toys,2,44.86,89.72,Credit Card,Yes,Yes
+120,2024-04-29,6,4088,75,Household,3,49.92,149.76,Credit Card,No,No
+121,2024-04-30,2,2700,68,Toys,3,86.24,258.71999999999997,Cash,No,No
+122,2024-05-01,9,4224,98,Groceries,1,46.66,46.66,Cash,Yes,No
+123,2024-05-02,5,4045,4,Household,1,94.05,94.05,Digital Wallet,No,Yes
+124,2024-05-03,6,2401,19,Electronics,3,50.9,152.7,Digital Wallet,Yes,No
+125,2024-05-04,4,1587,70,Clothing,3,94.97,284.90999999999997,Credit Card,No,No
+126,2024-05-05,7,2622,98,Household,4,83.45,333.8,Digital Wallet,No,No
+127,2024-05-06,9,4700,82,Household,3,36.88,110.64000000000001,Cash,Yes,No
+128,2024-05-07,7,4945,13,Groceries,4,86.5,346.0,Digital Wallet,Yes,Yes
+129,2024-05-08,1,1341,23,Clothing,3,11.9,35.7,Cash,No,Yes
+130,2024-05-09,1,3074,83,Electronics,1,92.58,92.58,Credit Card,No,No
+131,2024-05-10,9,4896,75,Household,4,63.53,254.12,Credit Card,Yes,Yes
+132,2024-05-11,9,4358,1,Household,2,6.38,12.76,Cash,No,Yes
+133,2024-05-12,4,1645,88,Groceries,1,64.78,64.78,Digital Wallet,No,Yes
+134,2024-05-13,9,1730,54,Toys,4,97.45,389.8,Credit Card,No,No
+135,2024-05-14,3,1167,71,Electronics,4,7.91,31.64,Credit Card,No,Yes
+136,2024-05-15,7,1609,89,Clothing,2,55.91,111.82,Digital Wallet,Yes,Yes
+137,2024-05-16,6,3315,85,Household,4,75.03,300.12,Digital Wallet,Yes,Yes
+138,2024-05-17,8,2772,15,Household,3,81.22,243.66,Cash,Yes,No
+139,2024-05-18,9,3040,65,Electronics,2,41.97,83.94,Digital Wallet,Yes,No
+140,2024-05-19,5,3868,76,Toys,1,21.21,21.21,Digital Wallet,Yes,Yes
+141,2024-05-20,1,1454,71,Household,1,5.19,5.19,Digital Wallet,Yes,Yes
+142,2024-05-21,3,3953,15,Electronics,3,58.39,175.17000000000002,Cash,No,No
+143,2024-05-22,8,2708,21,Groceries,1,45.84,45.84,Cash,Yes,No
+144,2024-05-23,6,4472,19,Toys,4,94.93,379.72,Credit Card,No,Yes
+145,2024-05-24,8,3969,60,Clothing,4,7.0,28.0,Cash,No,Yes
+146,2024-05-25,9,4028,93,Household,3,68.85,206.54999999999998,Credit Card,No,No
+147,2024-05-26,4,4547,89,Electronics,1,3.47,3.47,Digital Wallet,Yes,No
+148,2024-05-27,1,1701,33,Groceries,1,17.97,17.97,Credit Card,No,Yes
+149,2024-05-28,1,3681,49,Clothing,3,45.9,137.7,Credit Card,Yes,No
+150,2024-05-29,4,4629,96,Electronics,2,46.03,92.06,Digital Wallet,No,Yes
+151,2024-05-30,7,2599,35,Electronics,1,68.88,68.88,Credit Card,No,Yes
+152,2024-05-31,2,1129,44,Clothing,2,91.11,182.22,Cash,Yes,Yes
+153,2024-06-01,3,4067,90,Groceries,1,64.26,64.26,Cash,No,No
+154,2024-06-02,1,2845,11,Groceries,1,95.4,95.4,Cash,No,Yes
+155,2024-06-03,5,2386,99,Toys,1,88.28,88.28,Cash,No,Yes
+156,2024-06-04,1,4776,72,Household,1,58.87,58.87,Credit Card,No,No
+157,2024-06-05,8,3866,78,Clothing,4,83.55,334.2,Credit Card,Yes,No
+158,2024-06-06,1,1692,74,Clothing,2,64.62,129.24,Digital Wallet,No,Yes
+159,2024-06-07,1,4363,66,Clothing,2,8.78,17.56,Credit Card,No,Yes
+160,2024-06-08,2,2394,46,Groceries,1,74.32,74.32,Credit Card,Yes,No
+161,2024-06-09,2,1793,9,Household,1,10.4,10.4,Credit Card,No,No
+162,2024-06-10,6,1028,3,Toys,2,59.81,119.62,Digital Wallet,No,No
+163,2024-06-11,7,1148,85,Electronics,4,70.56,282.24,Cash,No,Yes
+164,2024-06-12,5,4850,26,Electronics,3,7.59,22.77,Credit Card,No,Yes
+165,2024-06-13,1,2319,72,Clothing,3,23.85,71.55000000000001,Digital Wallet,Yes,Yes
+166,2024-06-14,1,3058,48,Household,2,91.65,183.3,Digital Wallet,No,No
+167,2024-06-15,3,4583,66,Groceries,1,62.02,62.02,Digital Wallet,Yes,Yes
+168,2024-06-16,2,3723,70,Household,1,25.38,25.38,Cash,No,No
+169,2024-06-17,5,2136,28,Household,4,69.38,277.52,Credit Card,No,Yes
+170,2024-06-18,6,1186,93,Groceries,3,60.08,180.24,Digital Wallet,No,No
+171,2024-06-19,7,3854,26,Clothing,4,50.66,202.64,Cash,Yes,Yes
+172,2024-06-20,4,3791,25,Household,3,97.64,292.92,Digital Wallet,No,Yes
+173,2024-06-21,7,2250,12,Electronics,2,68.66,137.32,Digital Wallet,No,No
+174,2024-06-22,8,2333,5,Groceries,3,38.17,114.51,Digital Wallet,Yes,No
+175,2024-06-23,1,1097,98,Toys,4,80.21,320.84,Digital Wallet,Yes,Yes
+176,2024-06-24,6,1054,48,Clothing,4,88.57,354.28,Digital Wallet,Yes,No
+177,2024-06-25,8,3670,37,Groceries,4,13.4,53.6,Cash,Yes,No
+178,2024-06-26,5,3711,79,Toys,2,20.85,41.7,Credit Card,No,Yes
+179,2024-06-27,4,1757,44,Toys,3,22.41,67.23,Credit Card,No,No
+180,2024-06-28,2,1405,15,Household,3,69.43,208.29000000000002,Credit Card,No,Yes
+181,2024-06-29,6,3116,43,Household,4,60.7,242.8,Credit Card,No,Yes
+182,2024-06-30,6,4383,48,Household,3,62.28,186.84,Cash,Yes,No
+183,2024-07-01,1,2312,87,Groceries,1,94.14,94.14,Cash,No,No
+184,2024-07-02,9,2785,70,Groceries,1,77.82,77.82,Cash,No,Yes
+185,2024-07-03,6,4619,46,Clothing,1,13.67,13.67,Digital Wallet,No,Yes
+186,2024-07-04,3,1750,43,Household,3,35.4,106.19999999999999,Digital Wallet,No,Yes
+187,2024-07-05,4,4219,21,Toys,2,44.1,88.2,Digital Wallet,Yes,Yes
+188,2024-07-06,4,4538,23,Electronics,2,40.2,80.4,Credit Card,No,Yes
+189,2024-07-07,3,2762,80,Clothing,2,67.26,134.52,Digital Wallet,No,Yes
+190,2024-07-08,3,4315,47,Groceries,2,89.3,178.6,Credit Card,No,No
+191,2024-07-09,3,4562,15,Clothing,1,31.3,31.3,Digital Wallet,Yes,No
+192,2024-07-10,4,4920,25,Clothing,1,55.64,55.64,Credit Card,Yes,No
+193,2024-07-11,7,4005,36,Clothing,4,79.15,316.6,Digital Wallet,No,Yes
+194,2024-07-12,4,4578,75,Clothing,3,42.21,126.63,Digital Wallet,No,No
+195,2024-07-13,9,1364,51,Electronics,3,17.64,52.92,Cash,No,Yes
+196,2024-07-14,1,3026,15,Household,2,48.02,96.04,Digital Wallet,Yes,Yes
+197,2024-07-15,8,1481,68,Toys,1,6.47,6.47,Digital Wallet,No,No
+198,2024-07-16,7,3248,21,Clothing,2,94.3,188.6,Cash,No,Yes
+199,2024-07-17,2,1153,13,Clothing,4,8.41,33.64,Credit Card,No,Yes
+200,2024-07-18,8,4521,86,Clothing,3,44.41,133.23,Cash,Yes,Yes
+201,2024-07-19,1,2524,19,Household,3,53.46,160.38,Cash,No,Yes
+202,2024-07-20,9,3120,34,Groceries,2,98.55,197.1,Credit Card,No,Yes
+203,2024-07-21,9,3760,78,Groceries,4,17.44,69.76,Digital Wallet,Yes,Yes
+204,2024-07-22,2,3343,68,Electronics,3,12.33,36.99,Credit Card,Yes,No
+205,2024-07-23,7,2040,52,Groceries,4,1.86,7.44,Digital Wallet,No,Yes
+206,2024-07-24,3,2664,27,Clothing,4,16.4,65.6,Digital Wallet,Yes,Yes
+207,2024-07-25,7,2240,29,Clothing,2,21.52,43.04,Credit Card,No,Yes
+208,2024-07-26,9,1060,28,Clothing,1,63.43,63.43,Cash,Yes,Yes
+209,2024-07-27,4,1938,35,Electronics,2,22.75,45.5,Credit Card,Yes,No
+210,2024-07-28,1,2639,8,Clothing,1,3.03,3.03,Digital Wallet,No,No
+211,2024-07-29,2,3089,16,Groceries,4,82.84,331.36,Credit Card,No,Yes
+212,2024-07-30,1,1024,36,Household,1,37.19,37.19,Credit Card,No,Yes
+213,2024-07-31,5,2062,30,Household,4,36.02,144.08,Digital Wallet,Yes,Yes
+214,2024-08-01,5,4874,18,Toys,3,30.95,92.85,Cash,No,No
+215,2024-08-02,7,1130,2,Groceries,3,97.56,292.68,Credit Card,No,No
+216,2024-08-03,9,4569,49,Clothing,3,17.84,53.519999999999996,Digital Wallet,No,No
+217,2024-08-04,9,2252,77,Household,2,89.93,179.86,Digital Wallet,No,No
+218,2024-08-05,3,1107,4,Groceries,2,77.9,155.8,Credit Card,No,Yes
+219,2024-08-06,3,1171,90,Household,4,8.57,34.28,Cash,Yes,No
+220,2024-08-07,3,2458,89,Clothing,3,98.69,296.07,Credit Card,No,No
+221,2024-08-08,4,4549,94,Household,2,27.87,55.74,Cash,No,Yes
+222,2024-08-09,8,1101,75,Toys,3,10.76,32.28,Cash,Yes,Yes
+223,2024-08-10,6,3913,7,Toys,2,83.1,166.2,Cash,No,No
+224,2024-08-11,8,3571,95,Household,1,70.96,70.96,Cash,No,No
+225,2024-08-12,1,3322,74,Groceries,1,62.1,62.1,Credit Card,No,No
+226,2024-08-13,8,2636,39,Groceries,3,16.44,49.32000000000001,Digital Wallet,No,No
+227,2024-08-14,4,4115,13,Groceries,4,48.37,193.48,Digital Wallet,No,Yes
+228,2024-08-15,1,3864,31,Household,2,78.28,156.56,Digital Wallet,Yes,Yes
+229,2024-08-16,8,4004,71,Groceries,2,31.06,62.12,Digital Wallet,Yes,No
+230,2024-08-17,4,2040,63,Clothing,1,31.86,31.86,Digital Wallet,Yes,No
+231,2024-08-18,6,1329,56,Toys,1,1.31,1.31,Digital Wallet,No,No
+232,2024-08-19,8,4640,42,Clothing,4,18.25,73.0,Credit Card,Yes,No
+233,2024-08-20,4,4894,61,Groceries,4,87.67,350.68,Cash,No,No
+234,2024-08-21,3,2520,42,Clothing,4,44.73,178.92,Digital Wallet,No,Yes
+235,2024-08-22,9,4886,56,Groceries,3,98.44,295.32,Credit Card,No,Yes
+236,2024-08-23,3,1011,36,Household,1,40.18,40.18,Digital Wallet,Yes,Yes
+237,2024-08-24,9,2341,84,Clothing,3,71.8,215.39999999999998,Digital Wallet,Yes,No
+238,2024-08-25,2,4663,68,Household,1,28.91,28.91,Cash,Yes,No
+239,2024-08-26,2,1215,7,Household,1,37.02,37.02,Cash,No,Yes
+240,2024-08-27,2,1338,54,Electronics,2,19.88,39.76,Cash,Yes,Yes
+241,2024-08-28,6,2799,1,Groceries,1,35.36,35.36,Digital Wallet,No,No
+242,2024-08-29,3,3708,44,Toys,1,55.18,55.18,Digital Wallet,Yes,Yes
+243,2024-08-30,9,4152,45,Groceries,3,99.19,297.57,Digital Wallet,Yes,No
+244,2024-08-31,4,2750,47,Toys,1,66.76,66.76,Cash,No,No
+245,2024-09-01,1,2508,13,Groceries,3,20.73,62.19,Credit Card,No,Yes
+246,2024-09-02,4,3421,22,Household,4,5.45,21.8,Digital Wallet,Yes,Yes
+247,2024-09-03,1,4023,21,Clothing,1,13.51,13.51,Digital Wallet,Yes,Yes
+248,2024-09-04,5,1709,86,Clothing,1,56.69,56.69,Digital Wallet,Yes,No
+249,2024-09-05,4,2223,92,Electronics,3,76.75,230.25,Credit Card,No,No
+250,2024-09-06,8,4608,9,Toys,4,94.1,376.4,Digital Wallet,No,Yes
+251,2024-09-07,8,3513,26,Toys,2,2.57,5.14,Credit Card,Yes,No
+252,2024-09-08,7,2112,9,Toys,4,52.75,211.0,Digital Wallet,Yes,No
+253,2024-09-09,3,2291,15,Household,3,47.62,142.85999999999999,Credit Card,No,No
+254,2024-09-10,1,4726,10,Toys,4,65.95,263.8,Digital Wallet,Yes,Yes
+255,2024-09-11,1,4642,88,Clothing,3,56.4,169.2,Cash,No,No
+256,2024-09-12,3,4993,42,Household,3,69.02,207.06,Cash,No,Yes
+257,2024-09-13,6,1488,72,Groceries,2,66.15,132.3,Cash,No,Yes
+258,2024-09-14,7,4948,24,Toys,1,12.58,12.58,Cash,No,No
+259,2024-09-15,6,2561,80,Toys,3,80.17,240.51,Digital Wallet,No,Yes
+260,2024-09-16,6,1046,49,Groceries,3,13.2,39.599999999999994,Cash,No,No
+261,2024-09-17,6,4359,26,Toys,2,70.15,140.3,Credit Card,Yes,Yes
+262,2024-09-18,3,1777,91,Groceries,3,42.2,126.60000000000001,Cash,No,Yes
+263,2024-09-19,6,2039,37,Household,1,51.87,51.87,Cash,No,No
+264,2024-09-20,8,1710,68,Clothing,2,90.43,180.86,Cash,Yes,Yes
+265,2024-09-21,2,1400,50,Groceries,1,89.1,89.1,Digital Wallet,No,Yes
+266,2024-09-22,5,4990,24,Electronics,1,81.97,81.97,Cash,Yes,Yes
+267,2024-09-23,1,2817,19,Groceries,2,51.5,103.0,Credit Card,No,No
+268,2024-09-24,1,4028,60,Toys,3,73.89,221.67000000000002,Cash,Yes,No
+269,2024-09-25,5,4157,39,Household,1,51.78,51.78,Cash,Yes,Yes
+270,2024-09-26,3,1249,74,Household,1,87.09,87.09,Cash,No,Yes
+271,2024-09-27,4,1390,89,Groceries,1,40.87,40.87,Credit Card,No,Yes
+272,2024-09-28,3,4853,18,Clothing,1,97.05,97.05,Cash,No,No
+273,2024-09-29,1,1334,19,Electronics,2,93.3,186.6,Credit Card,No,No
+274,2024-09-30,1,1628,36,Household,2,74.42,148.84,Credit Card,Yes,Yes
+275,2024-10-01,5,4590,74,Toys,4,28.66,114.64,Cash,Yes,No
+276,2024-10-02,6,1136,97,Toys,4,14.03,56.12,Credit Card,Yes,No
+277,2024-10-03,3,3930,55,Clothing,1,85.62,85.62,Digital Wallet,No,No
+278,2024-10-04,9,3735,69,Household,3,17.36,52.08,Cash,Yes,No
+279,2024-10-05,5,4911,47,Groceries,1,85.57,85.57,Cash,No,Yes
+280,2024-10-06,8,2521,49,Toys,3,49.59,148.77,Credit Card,No,No
+281,2024-10-07,1,1826,99,Clothing,1,41.25,41.25,Credit Card,Yes,No
+282,2024-10-08,5,1726,98,Household,4,90.42,361.68,Cash,No,Yes
+283,2024-10-09,3,2500,33,Household,4,60.78,243.12,Digital Wallet,Yes,Yes
+284,2024-10-10,1,3641,21,Household,3,58.08,174.24,Credit Card,No,No
+285,2024-10-11,4,4294,81,Household,1,56.32,56.32,Credit Card,Yes,No
+286,2024-10-12,5,1989,22,Household,3,37.75,113.25,Digital Wallet,No,Yes
+287,2024-10-13,7,3419,48,Toys,4,78.78,315.12,Digital Wallet,Yes,Yes
+288,2024-10-14,1,1934,37,Clothing,1,26.03,26.03,Cash,Yes,Yes
+289,2024-10-15,3,4042,15,Household,1,93.95,93.95,Digital Wallet,No,No
+290,2024-10-16,2,1401,35,Electronics,3,89.5,268.5,Cash,No,No
+291,2024-10-17,9,2466,92,Electronics,2,34.41,68.82,Digital Wallet,Yes,Yes
+292,2024-10-18,6,4561,71,Clothing,3,73.22,219.66,Credit Card,No,No
+293,2024-10-19,3,1614,32,Groceries,4,57.75,231.0,Cash,No,Yes
+294,2024-10-20,8,2296,11,Groceries,4,34.43,137.72,Cash,No,No
+295,2024-10-21,8,4597,10,Groceries,4,98.86,395.44,Cash,Yes,Yes
+296,2024-10-22,2,2182,73,Electronics,4,3.5,14.0,Digital Wallet,Yes,Yes
+297,2024-10-23,6,4223,78,Groceries,4,26.01,104.04,Credit Card,No,No
+298,2024-10-24,7,4042,77,Toys,2,52.49,104.98,Cash,No,No
+299,2024-10-25,2,3667,57,Household,1,52.67,52.67,Cash,Yes,No
+300,2024-10-26,2,3235,25,Electronics,3,59.3,177.89999999999998,Cash,No,No
+301,2024-10-27,1,4884,2,Clothing,3,75.42,226.26,Cash,Yes,No
+302,2024-10-28,8,2121,64,Clothing,4,62.72,250.88,Credit Card,No,No
+303,2024-10-29,1,1130,35,Household,3,60.43,181.29,Digital Wallet,No,Yes
+304,2024-10-30,9,3852,7,Electronics,4,6.3,25.2,Credit Card,No,No
+305,2024-10-31,6,2194,85,Groceries,2,38.28,76.56,Cash,Yes,Yes
+306,2024-11-01,7,3983,18,Groceries,2,23.97,47.94,Credit Card,Yes,Yes
+307,2024-11-02,7,4033,67,Toys,1,27.27,27.27,Cash,Yes,No
+308,2024-11-03,3,1182,42,Toys,2,55.88,111.76,Digital Wallet,Yes,Yes
+309,2024-11-04,2,4030,39,Groceries,2,20.75,41.5,Digital Wallet,No,Yes
+310,2024-11-05,9,1363,41,Clothing,1,30.1,30.1,Digital Wallet,No,No
+311,2024-11-06,8,1038,75,Clothing,3,24.47,73.41,Cash,Yes,No
+312,2024-11-07,7,4598,24,Toys,4,94.9,379.6,Credit Card,No,No
+313,2024-11-08,9,4959,60,Household,4,94.52,378.08,Digital Wallet,No,Yes
+314,2024-11-09,4,3544,46,Groceries,3,61.38,184.14000000000001,Cash,Yes,No
+315,2024-11-10,4,4587,19,Toys,1,92.53,92.53,Cash,No,No
+316,2024-11-11,1,2372,68,Toys,3,78.8,236.39999999999998,Credit Card,No,No
+317,2024-11-12,8,4029,90,Groceries,2,59.4,118.8,Digital Wallet,Yes,No
+318,2024-11-13,3,1920,42,Groceries,1,1.64,1.64,Cash,No,Yes
+319,2024-11-14,7,4468,32,Clothing,1,77.48,77.48,Credit Card,No,No
+320,2024-11-15,2,3769,39,Household,1,70.55,70.55,Digital Wallet,No,Yes
+321,2024-11-16,2,4232,36,Household,4,61.91,247.64,Credit Card,Yes,No
+322,2024-11-17,7,1015,97,Groceries,3,76.28,228.84,Credit Card,Yes,Yes
+323,2024-11-18,6,1492,36,Electronics,1,51.78,51.78,Cash,No,Yes
+324,2024-11-19,3,2449,3,Toys,1,70.7,70.7,Cash,No,Yes
+325,2024-11-20,9,2131,73,Toys,1,93.58,93.58,Cash,No,No
+326,2024-11-21,6,3941,8,Groceries,3,38.2,114.60000000000001,Credit Card,Yes,Yes
+327,2024-11-22,6,4521,97,Electronics,4,71.1,284.4,Cash,Yes,No
+328,2024-11-23,1,1310,70,Clothing,2,48.09,96.18,Credit Card,Yes,No
+329,2024-11-24,4,1738,41,Groceries,4,67.77,271.08,Credit Card,No,No
+330,2024-11-25,6,4241,68,Groceries,1,76.53,76.53,Cash,No,No
+331,2024-11-26,6,1545,13,Toys,4,5.5,22.0,Digital Wallet,No,No
+332,2024-11-27,5,3461,49,Groceries,4,65.01,260.04,Digital Wallet,No,Yes
+333,2024-11-28,1,1250,60,Groceries,2,23.45,46.9,Digital Wallet,No,No
+334,2024-11-29,8,1758,2,Groceries,3,67.33,201.99,Credit Card,Yes,Yes
+335,2024-11-30,5,2804,60,Toys,3,47.36,142.07999999999998,Credit Card,No,Yes
+336,2024-12-01,5,4212,5,Clothing,4,77.58,310.32,Credit Card,No,Yes
+337,2024-12-02,7,2297,44,Clothing,4,13.22,52.88,Cash,No,Yes
+338,2024-12-03,4,4487,27,Groceries,3,63.01,189.03,Credit Card,Yes,Yes
+339,2024-12-04,6,2631,32,Toys,3,28.57,85.71000000000001,Cash,No,Yes
+340,2024-12-05,4,4810,21,Clothing,2,85.45,170.9,Cash,Yes,Yes
+341,2024-12-06,3,2914,8,Clothing,1,92.91,92.91,Digital Wallet,Yes,No
+342,2024-12-07,7,4110,72,Clothing,4,99.64,398.56,Digital Wallet,Yes,Yes
+343,2024-12-08,8,1813,50,Toys,3,79.8,239.39999999999998,Digital Wallet,Yes,No
+344,2024-12-09,4,1028,67,Toys,4,75.62,302.48,Cash,Yes,Yes
+345,2024-12-10,2,1957,44,Groceries,4,22.33,89.32,Cash,No,Yes
+346,2024-12-11,3,3032,58,Household,3,34.26,102.78,Cash,No,Yes
+347,2024-12-12,1,1476,3,Clothing,2,47.1,94.2,Credit Card,Yes,Yes
+348,2024-12-13,8,1317,86,Household,4,77.56,310.24,Cash,Yes,No
+349,2024-12-14,3,1244,70,Toys,2,91.58,183.16,Digital Wallet,Yes,No
+350,2024-12-15,7,1747,2,Toys,3,19.72,59.16,Digital Wallet,No,No
+351,2024-12-16,5,1696,87,Toys,1,92.31,92.31,Cash,No,Yes
+352,2024-12-17,5,1271,44,Household,1,69.87,69.87,Cash,Yes,Yes
+353,2024-12-18,7,4511,2,Toys,4,61.47,245.88,Digital Wallet,No,Yes
+354,2024-12-19,9,2771,81,Groceries,3,20.78,62.34,Cash,No,No
+355,2024-12-20,5,2262,35,Toys,2,6.5,13.0,Digital Wallet,Yes,Yes
+356,2024-12-21,1,3424,98,Electronics,4,57.28,229.12,Credit Card,Yes,No
+357,2024-12-22,1,1265,87,Household,3,65.5,196.5,Digital Wallet,No,No
+358,2024-12-23,2,3973,30,Electronics,3,21.87,65.61,Credit Card,No,Yes
+359,2024-12-24,6,1920,8,Toys,2,56.09,112.18,Cash,No,Yes
+360,2024-12-25,9,4430,22,Groceries,4,85.79,343.16,Cash,Yes,No
+361,2024-12-26,8,1339,44,Clothing,3,83.67,251.01,Credit Card,Yes,No
+362,2024-12-27,5,1388,58,Toys,3,92.81,278.43,Cash,Yes,No
+363,2024-12-28,1,3624,36,Groceries,3,37.22,111.66,Credit Card,No,Yes
+364,2024-12-29,7,4760,69,Household,2,32.49,64.98,Cash,No,Yes
+365,2024-12-30,5,3050,77,Electronics,4,75.19,300.76,Digital Wallet,Yes,Yes
+366,2024-12-31,6,4500,93,Electronics,4,43.68,174.72,Cash,No,Yes
+367,2025-01-01,7,2165,31,Electronics,4,9.67,38.68,Digital Wallet,Yes,Yes
+368,2025-01-02,3,1375,47,Household,4,29.0,116.0,Digital Wallet,No,Yes
+369,2025-01-03,3,4741,55,Groceries,1,42.44,42.44,Credit Card,Yes,No
+370,2025-01-04,5,3033,80,Household,1,29.96,29.96,Cash,No,No
+371,2025-01-05,6,3371,62,Electronics,4,33.89,135.56,Credit Card,No,No
+372,2025-01-06,9,1145,30,Toys,2,30.08,60.16,Cash,Yes,Yes
+373,2025-01-07,5,2981,55,Clothing,1,5.11,5.11,Digital Wallet,Yes,No
+374,2025-01-08,1,1292,16,Household,3,64.07,192.20999999999998,Digital Wallet,Yes,Yes
+375,2025-01-09,4,4736,12,Household,1,60.13,60.13,Cash,Yes,Yes
+376,2025-01-10,5,1431,17,Groceries,3,65.68,197.04000000000002,Cash,Yes,No
+377,2025-01-11,5,1704,16,Groceries,4,20.04,80.16,Credit Card,No,Yes
+378,2025-01-12,7,3996,12,Household,1,30.27,30.27,Cash,Yes,No
+379,2025-01-13,4,2998,8,Electronics,2,62.34,124.68,Cash,Yes,No
+380,2025-01-14,1,3632,84,Clothing,1,60.36,60.36,Cash,Yes,Yes
+381,2025-01-15,5,1398,3,Groceries,1,51.13,51.13,Credit Card,Yes,No
+382,2025-01-16,7,3864,16,Electronics,1,35.69,35.69,Cash,Yes,No
+383,2025-01-17,6,4960,30,Toys,4,91.38,365.52,Digital Wallet,No,No
+384,2025-01-18,5,4415,23,Groceries,2,34.64,69.28,Credit Card,Yes,No
+385,2025-01-19,4,1963,92,Electronics,1,46.11,46.11,Credit Card,Yes,Yes
+386,2025-01-20,2,4211,5,Electronics,2,68.13,136.26,Digital Wallet,Yes,No
+387,2025-01-21,4,3234,84,Clothing,4,54.76,219.04,Digital Wallet,No,No
+388,2025-01-22,3,3041,65,Clothing,3,35.34,106.02000000000001,Digital Wallet,No,No
+389,2025-01-23,1,2828,30,Toys,1,44.13,44.13,Cash,Yes,Yes
+390,2025-01-24,8,3108,21,Electronics,2,79.65,159.3,Digital Wallet,Yes,No
+391,2025-01-25,5,1938,84,Electronics,2,28.53,57.06,Cash,No,Yes
+392,2025-01-26,4,4451,70,Clothing,4,15.08,60.32,Credit Card,No,No
+393,2025-01-27,8,1709,22,Groceries,1,32.0,32.0,Credit Card,No,No
+394,2025-01-28,7,1806,82,Groceries,3,85.1,255.29999999999998,Digital Wallet,Yes,No
+395,2025-01-29,2,2463,72,Household,2,9.81,19.62,Cash,Yes,Yes
+396,2025-01-30,1,4390,32,Clothing,1,99.18,99.18,Digital Wallet,No,Yes
+397,2025-01-31,4,2325,33,Household,3,54.56,163.68,Digital Wallet,Yes,Yes
+398,2025-02-01,8,4415,16,Clothing,2,98.5,197.0,Cash,No,Yes
+399,2025-02-02,2,1010,76,Toys,2,93.96,187.92,Digital Wallet,No,Yes
+400,2025-02-03,3,2085,38,Electronics,3,45.83,137.49,Credit Card,No,Yes
+401,2025-02-04,1,2868,98,Toys,3,20.65,61.949999999999996,Digital Wallet,Yes,No
+402,2025-02-05,1,3273,14,Clothing,4,17.32,69.28,Cash,No,Yes
+403,2025-02-06,3,4224,36,Electronics,1,24.76,24.76,Cash,No,No
+404,2025-02-07,5,4782,97,Groceries,1,71.3,71.3,Credit Card,Yes,Yes
+405,2025-02-08,3,3611,23,Groceries,4,28.02,112.08,Cash,No,Yes
+406,2025-02-09,1,1771,66,Household,2,34.8,69.6,Cash,Yes,Yes
+407,2025-02-10,1,2594,85,Clothing,3,45.43,136.29,Credit Card,No,No
+408,2025-02-11,8,2607,2,Clothing,3,91.41,274.23,Digital Wallet,Yes,Yes
+409,2025-02-12,2,4731,91,Groceries,3,19.75,59.25,Credit Card,No,Yes
+410,2025-02-13,3,4932,73,Toys,2,1.5,3.0,Digital Wallet,No,No
+411,2025-02-14,2,4646,65,Electronics,3,6.95,20.85,Credit Card,No,No
+412,2025-02-15,3,2333,75,Toys,3,90.57,271.71,Digital Wallet,No,No
+413,2025-02-16,7,1884,67,Toys,4,65.1,260.4,Credit Card,No,No
+414,2025-02-17,1,4314,52,Groceries,2,28.03,56.06,Digital Wallet,Yes,Yes
+415,2025-02-18,8,4564,62,Groceries,1,18.54,18.54,Credit Card,Yes,No
+416,2025-02-19,2,2389,23,Groceries,4,30.13,120.52,Digital Wallet,No,Yes
+417,2025-02-20,3,4401,26,Household,4,12.36,49.44,Credit Card,No,Yes
+418,2025-02-21,9,4178,68,Toys,1,94.21,94.21,Cash,No,No
+419,2025-02-22,7,1225,82,Clothing,4,78.64,314.56,Digital Wallet,Yes,Yes
+420,2025-02-23,4,1824,55,Electronics,2,46.78,93.56,Credit Card,Yes,No
+421,2025-02-24,5,3265,6,Household,3,86.63,259.89,Digital Wallet,No,Yes
+422,2025-02-25,2,1936,35,Clothing,2,25.7,51.4,Digital Wallet,Yes,No
+423,2025-02-26,8,3800,22,Toys,1,71.99,71.99,Credit Card,No,No
+424,2025-02-27,4,3553,43,Groceries,1,85.76,85.76,Digital Wallet,No,No
+425,2025-02-28,9,3306,15,Toys,4,36.32,145.28,Credit Card,No,No
+426,2025-03-01,5,2911,86,Electronics,2,75.99,151.98,Cash,Yes,No
+427,2025-03-02,9,4845,60,Household,2,30.21,60.42,Digital Wallet,No,No
+428,2025-03-03,4,4588,12,Household,1,30.59,30.59,Cash,No,Yes
+429,2025-03-04,5,2796,49,Electronics,2,11.6,23.2,Digital Wallet,No,Yes
+430,2025-03-05,9,1053,42,Clothing,1,44.57,44.57,Digital Wallet,Yes,Yes
+431,2025-03-06,8,4118,38,Clothing,2,73.24,146.48,Digital Wallet,Yes,No
+432,2025-03-07,3,1726,82,Household,2,94.08,188.16,Credit Card,Yes,Yes
+433,2025-03-08,1,3736,45,Household,2,60.78,121.56,Cash,No,No
+434,2025-03-09,3,2544,35,Groceries,1,86.45,86.45,Digital Wallet,Yes,Yes
+435,2025-03-10,4,4170,30,Clothing,4,82.43,329.72,Credit Card,No,Yes
+436,2025-03-11,2,2043,88,Electronics,2,18.16,36.32,Digital Wallet,Yes,No
+437,2025-03-12,1,2913,30,Clothing,1,49.1,49.1,Credit Card,No,Yes
+438,2025-03-13,7,2776,78,Groceries,1,12.58,12.58,Digital Wallet,Yes,Yes
+439,2025-03-14,8,2596,6,Household,2,68.53,137.06,Cash,No,Yes
+440,2025-03-15,7,2914,67,Household,2,95.04,190.08,Cash,Yes,No
+441,2025-03-16,5,4561,80,Groceries,4,14.57,58.28,Digital Wallet,Yes,Yes
+442,2025-03-17,1,3466,7,Electronics,1,73.65,73.65,Credit Card,Yes,No
+443,2025-03-18,7,3737,52,Household,1,63.59,63.59,Digital Wallet,No,Yes
+444,2025-03-19,7,1849,14,Toys,3,58.78,176.34,Credit Card,Yes,Yes
+445,2025-03-20,9,3109,73,Household,1,39.62,39.62,Digital Wallet,Yes,Yes
+446,2025-03-21,3,4216,15,Toys,4,36.16,144.64,Credit Card,Yes,Yes
+447,2025-03-22,9,3263,21,Groceries,3,5.48,16.44,Cash,Yes,No
+448,2025-03-23,1,1002,35,Groceries,3,22.57,67.71000000000001,Digital Wallet,No,Yes
+449,2025-03-24,1,1159,66,Household,3,2.5,7.5,Cash,Yes,No
+450,2025-03-25,4,4810,91,Clothing,2,58.56,117.12,Cash,No,No
+451,2025-03-26,9,1780,2,Toys,2,11.48,22.96,Digital Wallet,No,Yes
+452,2025-03-27,6,4191,35,Electronics,1,87.43,87.43,Digital Wallet,No,Yes
+453,2025-03-28,3,1892,82,Household,3,52.79,158.37,Credit Card,No,No
+454,2025-03-29,1,3030,78,Electronics,4,70.27,281.08,Credit Card,Yes,No
+455,2025-03-30,4,4160,20,Household,2,41.67,83.34,Cash,No,Yes
+456,2025-03-31,9,3376,82,Clothing,4,56.5,226.0,Credit Card,No,Yes
+457,2025-04-01,3,1579,10,Clothing,4,94.32,377.28,Credit Card,No,Yes
+458,2025-04-02,9,2933,25,Clothing,2,9.19,18.38,Digital Wallet,No,Yes
+459,2025-04-03,7,2380,66,Clothing,2,26.14,52.28,Credit Card,Yes,Yes
+460,2025-04-04,4,4681,25,Groceries,2,78.22,156.44,Cash,Yes,No
+461,2025-04-05,3,2290,54,Groceries,2,10.77,21.54,Credit Card,No,Yes
+462,2025-04-06,5,2640,33,Toys,3,8.49,25.47,Cash,No,Yes
+463,2025-04-07,5,1951,36,Electronics,3,36.79,110.37,Digital Wallet,No,No
+464,2025-04-08,3,4394,95,Household,3,10.12,30.36,Cash,Yes,Yes
+465,2025-04-09,9,3682,14,Household,3,58.92,176.76,Credit Card,Yes,Yes
+466,2025-04-10,4,1987,65,Groceries,1,23.4,23.4,Digital Wallet,Yes,No
+467,2025-04-11,5,4612,80,Household,3,89.67,269.01,Credit Card,Yes,Yes
+468,2025-04-12,4,4720,54,Groceries,2,78.57,157.14,Digital Wallet,Yes,No
+469,2025-04-13,5,2218,52,Toys,4,70.27,281.08,Digital Wallet,No,Yes
+470,2025-04-14,7,1920,3,Electronics,3,62.08,186.24,Credit Card,Yes,Yes
+471,2025-04-15,9,3785,99,Toys,1,86.48,86.48,Credit Card,Yes,Yes
+472,2025-04-16,7,2355,41,Clothing,2,23.08,46.16,Digital Wallet,No,No
+473,2025-04-17,5,1169,6,Clothing,4,87.44,349.76,Digital Wallet,Yes,No
+474,2025-04-18,7,1520,25,Clothing,4,79.16,316.64,Credit Card,Yes,No
+475,2025-04-19,5,2486,13,Toys,3,75.07,225.20999999999998,Cash,Yes,No
+476,2025-04-20,3,1039,98,Household,4,56.56,226.24,Credit Card,No,Yes
+477,2025-04-21,7,2560,8,Electronics,3,25.38,76.14,Digital Wallet,Yes,No
+478,2025-04-22,2,4332,21,Clothing,3,42.93,128.79,Credit Card,No,No
+479,2025-04-23,9,2418,98,Clothing,2,79.56,159.12,Cash,No,No
+480,2025-04-24,1,1954,68,Clothing,2,4.15,8.3,Credit Card,Yes,Yes
+481,2025-04-25,6,4297,25,Electronics,1,78.42,78.42,Digital Wallet,Yes,Yes
+482,2025-04-26,7,1983,79,Clothing,2,24.77,49.54,Credit Card,Yes,No
+483,2025-04-27,8,4195,68,Electronics,2,15.29,30.58,Digital Wallet,Yes,No
+484,2025-04-28,9,1974,45,Clothing,3,12.45,37.349999999999994,Digital Wallet,No,Yes
+485,2025-04-29,2,1037,60,Toys,2,3.7,7.4,Credit Card,Yes,No
+486,2025-04-30,2,3375,12,Toys,3,52.84,158.52,Digital Wallet,No,No
+487,2025-05-01,5,2274,32,Electronics,3,22.61,67.83,Digital Wallet,No,No
+488,2025-05-02,5,4972,96,Toys,2,98.95,197.9,Cash,No,No
+489,2025-05-03,6,2199,92,Electronics,1,57.87,57.87,Cash,No,Yes
+490,2025-05-04,3,2625,13,Toys,1,14.65,14.65,Cash,No,Yes
+491,2025-05-05,8,1913,31,Toys,4,69.19,276.76,Cash,Yes,Yes
+492,2025-05-06,1,1453,78,Electronics,4,89.88,359.52,Digital Wallet,No,No
+493,2025-05-07,6,1036,20,Household,2,74.77,149.54,Credit Card,No,No
+494,2025-05-08,4,4387,18,Toys,1,8.57,8.57,Digital Wallet,Yes,Yes
+495,2025-05-09,1,2711,93,Clothing,3,89.69,269.07,Digital Wallet,Yes,Yes
+496,2025-05-10,7,4020,60,Household,4,79.6,318.4,Digital Wallet,No,Yes
+497,2025-05-11,9,1795,63,Electronics,3,16.67,50.010000000000005,Credit Card,No,No
+498,2025-05-12,4,1972,6,Household,4,6.13,24.52,Cash,Yes,Yes
+499,2025-05-13,4,1592,32,Groceries,2,56.17,112.34,Digital Wallet,No,No
+500,2025-05-14,6,2137,93,Groceries,1,16.45,16.45,Digital Wallet,Yes,No
+501,2025-05-15,3,4111,43,Toys,4,83.62,334.48,Cash,Yes,Yes
+502,2025-05-16,6,2324,2,Toys,1,36.48,36.48,Digital Wallet,No,Yes
+503,2025-05-17,7,3271,60,Clothing,3,91.38,274.14,Credit Card,Yes,No
+504,2025-05-18,3,1317,23,Household,2,57.0,114.0,Digital Wallet,No,Yes
+505,2025-05-19,7,3396,83,Groceries,1,19.08,19.08,Digital Wallet,No,Yes
+506,2025-05-20,3,3162,31,Toys,2,14.82,29.64,Cash,No,No
+507,2025-05-21,2,3745,5,Household,1,58.07,58.07,Digital Wallet,Yes,No
+508,2025-05-22,4,2346,83,Toys,3,76.43,229.29000000000002,Digital Wallet,No,No
+509,2025-05-23,8,2591,34,Toys,3,78.37,235.11,Credit Card,Yes,No
+510,2025-05-24,9,4111,10,Groceries,2,28.3,56.6,Cash,No,No
+511,2025-05-25,7,2889,89,Groceries,3,21.22,63.66,Cash,No,Yes
+512,2025-05-26,1,3087,2,Toys,4,2.66,10.64,Credit Card,Yes,No
+513,2025-05-27,3,4930,11,Electronics,1,68.24,68.24,Digital Wallet,No,No
+514,2025-05-28,9,2996,50,Toys,3,8.58,25.740000000000002,Cash,No,No
+515,2025-05-29,1,2772,31,Toys,4,42.66,170.64,Cash,Yes,Yes
+516,2025-05-30,9,2312,56,Clothing,2,60.57,121.14,Digital Wallet,Yes,No
+517,2025-05-31,8,2285,79,Clothing,4,93.77,375.08,Digital Wallet,Yes,No
+518,2025-06-01,1,1215,73,Clothing,2,31.87,63.74,Cash,No,No
+519,2025-06-02,6,4218,87,Electronics,2,25.73,51.46,Digital Wallet,Yes,Yes
+520,2025-06-03,5,3383,83,Electronics,1,65.76,65.76,Cash,Yes,No
+521,2025-06-04,6,4239,9,Toys,1,62.3,62.3,Digital Wallet,No,No
+522,2025-06-05,5,3139,99,Clothing,4,33.88,135.52,Digital Wallet,Yes,No
+523,2025-06-06,6,3400,21,Electronics,1,92.88,92.88,Credit Card,No,Yes
+524,2025-06-07,5,3618,73,Groceries,1,84.64,84.64,Digital Wallet,No,Yes
+525,2025-06-08,5,4642,28,Toys,1,23.17,23.17,Credit Card,Yes,Yes
+526,2025-06-09,4,3863,62,Household,4,24.68,98.72,Digital Wallet,No,Yes
+527,2025-06-10,3,2704,7,Toys,3,51.72,155.16,Cash,Yes,No
+528,2025-06-11,3,3828,80,Household,1,77.58,77.58,Cash,Yes,No
+529,2025-06-12,4,1362,16,Clothing,1,5.36,5.36,Digital Wallet,Yes,Yes
+530,2025-06-13,9,3604,97,Household,4,69.64,278.56,Digital Wallet,Yes,Yes
+531,2025-06-14,2,4416,4,Clothing,3,65.18,195.54000000000002,Cash,No,No
+532,2025-06-15,9,2716,4,Groceries,1,23.92,23.92,Digital Wallet,No,No
+533,2025-06-16,1,2193,40,Household,2,68.45,136.9,Credit Card,Yes,Yes
+534,2025-06-17,1,1355,17,Toys,4,94.08,376.32,Credit Card,Yes,Yes
+535,2025-06-18,5,1190,52,Clothing,1,5.63,5.63,Credit Card,No,Yes
+536,2025-06-19,6,4738,93,Toys,1,32.65,32.65,Credit Card,Yes,Yes
+537,2025-06-20,6,3469,52,Electronics,2,44.38,88.76,Credit Card,No,No
+538,2025-06-21,3,1699,36,Clothing,2,90.03,180.06,Digital Wallet,Yes,Yes
+539,2025-06-22,7,3054,38,Household,4,96.26,385.04,Digital Wallet,No,Yes
+540,2025-06-23,9,3180,50,Clothing,4,44.97,179.88,Credit Card,No,No
+541,2025-06-24,8,4818,63,Toys,2,75.25,150.5,Digital Wallet,No,No
+542,2025-06-25,6,1556,63,Groceries,4,53.63,214.52,Digital Wallet,Yes,No
+543,2025-06-26,8,1825,62,Clothing,2,54.24,108.48,Credit Card,Yes,No
+544,2025-06-27,5,3808,99,Household,1,28.53,28.53,Digital Wallet,Yes,No
+545,2025-06-28,8,2054,7,Electronics,2,22.48,44.96,Digital Wallet,Yes,Yes
+546,2025-06-29,4,3582,27,Groceries,2,29.51,59.02,Digital Wallet,Yes,Yes
+547,2025-06-30,8,1425,92,Electronics,3,56.08,168.24,Credit Card,No,Yes
+548,2025-07-01,2,4465,86,Clothing,2,3.89,7.78,Digital Wallet,No,No
+549,2025-07-02,5,3719,14,Toys,2,90.82,181.64,Cash,No,Yes
+550,2025-07-03,9,3410,71,Toys,3,16.47,49.41,Cash,No,No
+551,2025-07-04,4,4508,86,Household,4,22.79,91.16,Credit Card,No,Yes
+552,2025-07-05,6,4741,5,Toys,3,52.31,156.93,Cash,No,Yes
+553,2025-07-06,1,2574,55,Groceries,1,71.3,71.3,Credit Card,No,No
+554,2025-07-07,9,4998,2,Toys,3,10.48,31.44,Cash,Yes,No
+555,2025-07-08,1,3129,62,Household,1,32.45,32.45,Cash,No,Yes
+556,2025-07-09,5,3403,91,Clothing,4,96.9,387.6,Cash,Yes,Yes
+557,2025-07-10,4,4329,21,Clothing,3,26.97,80.91,Credit Card,No,Yes
+558,2025-07-11,3,4789,79,Toys,3,31.99,95.97,Credit Card,No,Yes
+559,2025-07-12,6,1588,21,Electronics,4,83.81,335.24,Digital Wallet,Yes,Yes
+560,2025-07-13,2,3012,10,Clothing,1,5.97,5.97,Credit Card,No,No
+561,2025-07-14,3,2547,87,Toys,3,47.0,141.0,Cash,Yes,No
+562,2025-07-15,5,1294,58,Household,1,38.58,38.58,Cash,No,No
+563,2025-07-16,9,2985,39,Toys,3,32.34,97.02000000000001,Credit Card,Yes,No
+564,2025-07-17,2,2247,5,Clothing,2,29.28,58.56,Credit Card,No,Yes
+565,2025-07-18,8,2548,65,Household,3,10.05,30.150000000000002,Credit Card,Yes,Yes
+566,2025-07-19,2,4117,13,Toys,4,32.17,128.68,Digital Wallet,Yes,No
+567,2025-07-20,5,2690,85,Groceries,4,5.26,21.04,Cash,No,Yes
+568,2025-07-21,7,2136,90,Household,1,78.32,78.32,Digital Wallet,No,No
+569,2025-07-22,8,2256,85,Groceries,3,40.42,121.26,Digital Wallet,Yes,Yes
+570,2025-07-23,1,3064,53,Electronics,1,44.95,44.95,Cash,No,Yes
+571,2025-07-24,6,1359,82,Household,1,89.47,89.47,Cash,Yes,Yes
+572,2025-07-25,1,4294,45,Groceries,2,66.15,132.3,Credit Card,No,No
+573,2025-07-26,2,3913,32,Clothing,2,1.8,3.6,Credit Card,Yes,No
+574,2025-07-27,1,1699,36,Clothing,4,94.37,377.48,Digital Wallet,No,No
+575,2025-07-28,5,1447,81,Electronics,1,24.48,24.48,Credit Card,Yes,No
+576,2025-07-29,9,3903,99,Household,4,11.65,46.6,Credit Card,No,Yes
+577,2025-07-30,6,3412,60,Household,3,77.04,231.12,Cash,Yes,Yes
+578,2025-07-31,1,1674,11,Household,1,50.55,50.55,Cash,Yes,Yes
+579,2025-08-01,1,2007,63,Electronics,1,43.94,43.94,Credit Card,No,Yes
+580,2025-08-02,2,2349,21,Household,3,25.7,77.1,Cash,No,No
+581,2025-08-03,9,3514,52,Clothing,3,55.2,165.60000000000002,Credit Card,Yes,Yes
+582,2025-08-04,3,3461,55,Groceries,4,28.16,112.64,Cash,Yes,Yes
+583,2025-08-05,1,4526,26,Clothing,4,90.26,361.04,Cash,Yes,Yes
+584,2025-08-06,5,1585,68,Clothing,3,22.31,66.92999999999999,Cash,Yes,No
+585,2025-08-07,7,2256,34,Groceries,4,88.55,354.2,Cash,No,No
+586,2025-08-08,6,2247,52,Clothing,3,56.38,169.14000000000001,Credit Card,Yes,No
+587,2025-08-09,1,1993,82,Electronics,1,83.02,83.02,Digital Wallet,Yes,Yes
+588,2025-08-10,5,4902,99,Groceries,1,71.57,71.57,Cash,Yes,No
+589,2025-08-11,5,2435,93,Clothing,2,69.97,139.94,Credit Card,No,Yes
+590,2025-08-12,6,1571,52,Toys,1,33.11,33.11,Credit Card,Yes,Yes
+591,2025-08-13,3,3382,29,Clothing,3,24.16,72.48,Cash,No,Yes
+592,2025-08-14,5,2245,38,Electronics,4,21.88,87.52,Digital Wallet,No,No
+593,2025-08-15,7,3084,42,Household,2,85.86,171.72,Cash,No,No
+594,2025-08-16,5,1988,21,Clothing,4,82.22,328.88,Credit Card,No,Yes
+595,2025-08-17,5,1277,42,Household,3,44.62,133.85999999999999,Digital Wallet,No,Yes
+596,2025-08-18,5,2219,13,Toys,1,14.11,14.11,Credit Card,No,No
+597,2025-08-19,3,3963,64,Clothing,2,38.84,77.68,Cash,No,No
+598,2025-08-20,1,2887,17,Groceries,3,62.32,186.96,Digital Wallet,Yes,No
+599,2025-08-21,5,1483,9,Household,2,45.99,91.98,Credit Card,Yes,Yes
+600,2025-08-22,9,2265,41,Toys,2,78.24,156.48,Credit Card,No,Yes
+601,2025-08-23,1,4395,1,Groceries,1,99.76,99.76,Credit Card,Yes,Yes
+602,2025-08-24,3,1730,2,Groceries,3,19.92,59.760000000000005,Cash,Yes,No
+603,2025-08-25,4,3239,60,Groceries,4,46.51,186.04,Digital Wallet,No,No
+604,2025-08-26,1,2040,48,Groceries,2,43.67,87.34,Cash,Yes,No
+605,2025-08-27,1,3571,29,Clothing,2,31.14,62.28,Cash,No,Yes
+606,2025-08-28,8,1917,97,Clothing,4,20.61,82.44,Cash,Yes,Yes
+607,2025-08-29,2,3448,10,Clothing,3,7.5,22.5,Digital Wallet,No,No
+608,2025-08-30,8,4977,58,Toys,2,88.82,177.64,Cash,No,Yes
+609,2025-08-31,7,1885,60,Toys,2,42.57,85.14,Cash,Yes,No
+610,2025-09-01,2,3752,21,Toys,2,50.19,100.38,Cash,Yes,Yes
+611,2025-09-02,6,1021,28,Electronics,3,91.78,275.34000000000003,Cash,No,No
+612,2025-09-03,6,1473,75,Toys,3,77.85,233.54999999999998,Credit Card,No,Yes
+613,2025-09-04,3,4191,34,Clothing,4,13.92,55.68,Cash,No,Yes
+614,2025-09-05,2,3257,8,Clothing,3,56.98,170.94,Credit Card,Yes,No
+615,2025-09-06,1,3353,59,Electronics,3,44.78,134.34,Cash,Yes,No
+616,2025-09-07,6,4341,86,Electronics,1,79.92,79.92,Digital Wallet,Yes,No
+617,2025-09-08,5,1703,72,Toys,4,72.7,290.8,Credit Card,Yes,No
+618,2025-09-09,9,1686,49,Household,2,69.35,138.7,Credit Card,No,No
+619,2025-09-10,1,1284,79,Electronics,3,34.71,104.13,Credit Card,No,Yes
+620,2025-09-11,7,1715,17,Groceries,2,80.69,161.38,Credit Card,No,No
+621,2025-09-12,5,4747,60,Clothing,2,6.19,12.38,Digital Wallet,No,No
+622,2025-09-13,5,1762,87,Groceries,1,16.8,16.8,Cash,Yes,No
+623,2025-09-14,2,2250,88,Clothing,3,34.23,102.69,Credit Card,No,Yes
+624,2025-09-15,3,1947,45,Clothing,4,8.6,34.4,Digital Wallet,No,No
+625,2025-09-16,7,3428,83,Electronics,3,24.26,72.78,Credit Card,Yes,No
+626,2025-09-17,6,3507,69,Electronics,2,83.18,166.36,Cash,Yes,No
+627,2025-09-18,2,2030,32,Groceries,4,94.88,379.52,Credit Card,No,Yes
+628,2025-09-19,6,1028,44,Clothing,3,31.16,93.48,Digital Wallet,Yes,Yes
+629,2025-09-20,2,1906,65,Groceries,2,27.19,54.38,Cash,No,No
+630,2025-09-21,2,4104,87,Household,2,28.71,57.42,Digital Wallet,Yes,Yes
+631,2025-09-22,2,4717,8,Groceries,1,28.49,28.49,Cash,Yes,No
+632,2025-09-23,3,3926,77,Toys,1,4.56,4.56,Cash,No,Yes
+633,2025-09-24,2,3126,72,Groceries,1,92.76,92.76,Cash,Yes,No
+634,2025-09-25,4,4999,87,Toys,2,22.16,44.32,Credit Card,No,Yes
+635,2025-09-26,9,3994,43,Toys,3,42.58,127.74,Digital Wallet,Yes,No
+636,2025-09-27,6,3506,1,Toys,1,1.96,1.96,Digital Wallet,Yes,No
+637,2025-09-28,1,1569,51,Household,3,85.94,257.82,Digital Wallet,Yes,Yes
+638,2025-09-29,8,3006,24,Groceries,1,73.38,73.38,Cash,Yes,No
+639,2025-09-30,7,4609,99,Groceries,4,94.73,378.92,Credit Card,Yes,No
+640,2025-10-01,3,4553,24,Household,4,78.38,313.52,Cash,No,No
+641,2025-10-02,1,2453,17,Clothing,1,32.06,32.06,Digital Wallet,Yes,No
+642,2025-10-03,5,1737,5,Electronics,2,25.54,51.08,Credit Card,No,Yes
+643,2025-10-04,4,4356,20,Groceries,1,70.07,70.07,Credit Card,Yes,No
+644,2025-10-05,8,1515,21,Electronics,1,37.05,37.05,Credit Card,No,Yes
+645,2025-10-06,1,3000,58,Household,2,57.06,114.12,Digital Wallet,Yes,Yes
+646,2025-10-07,1,4170,31,Clothing,4,1.62,6.48,Credit Card,No,Yes
+647,2025-10-08,4,3444,11,Clothing,3,7.13,21.39,Credit Card,No,Yes
+648,2025-10-09,8,4560,52,Clothing,1,54.0,54.0,Cash,Yes,No
+649,2025-10-10,5,1038,15,Household,2,57.04,114.08,Cash,Yes,No
+650,2025-10-11,2,4342,83,Toys,1,75.39,75.39,Credit Card,Yes,Yes
+651,2025-10-12,6,1886,7,Toys,2,14.06,28.12,Credit Card,No,No
+652,2025-10-13,5,3844,28,Electronics,3,51.81,155.43,Cash,No,Yes
+653,2025-10-14,2,3204,51,Toys,3,20.25,60.75,Cash,Yes,No
+654,2025-10-15,3,2098,58,Toys,4,10.23,40.92,Cash,Yes,No
+655,2025-10-16,9,3931,5,Clothing,2,41.64,83.28,Digital Wallet,No,No
+656,2025-10-17,7,2823,5,Clothing,2,17.17,34.34,Digital Wallet,No,Yes
+657,2025-10-18,7,4201,94,Electronics,4,22.96,91.84,Cash,Yes,Yes
+658,2025-10-19,6,2710,96,Groceries,4,32.44,129.76,Credit Card,No,No
+659,2025-10-20,8,1973,8,Electronics,2,26.68,53.36,Cash,Yes,Yes
+660,2025-10-21,4,4155,64,Electronics,4,9.67,38.68,Digital Wallet,Yes,Yes
+661,2025-10-22,8,4093,10,Household,3,9.9,29.700000000000003,Credit Card,Yes,No
+662,2025-10-23,4,4530,38,Household,1,20.13,20.13,Digital Wallet,No,Yes
+663,2025-10-24,8,2562,96,Electronics,3,6.01,18.03,Credit Card,No,No
+664,2025-10-25,9,4778,92,Electronics,4,63.02,252.08,Digital Wallet,No,No
+665,2025-10-26,3,3896,81,Electronics,2,29.45,58.9,Credit Card,No,No
+666,2025-10-27,3,4453,95,Toys,2,28.69,57.38,Credit Card,Yes,Yes
+667,2025-10-28,2,3795,8,Household,3,33.87,101.60999999999999,Credit Card,No,No
+668,2025-10-29,3,4511,25,Electronics,2,66.62,133.24,Credit Card,Yes,No
+669,2025-10-30,3,4675,73,Clothing,4,87.19,348.76,Digital Wallet,Yes,Yes
+670,2025-10-31,5,1988,66,Clothing,3,76.15,228.45000000000002,Digital Wallet,Yes,Yes
+671,2025-11-01,5,1020,79,Toys,2,73.03,146.06,Credit Card,No,Yes
+672,2025-11-02,2,3350,50,Toys,1,48.95,48.95,Credit Card,Yes,Yes
+673,2025-11-03,6,1868,67,Groceries,1,69.69,69.69,Digital Wallet,Yes,No
+674,2025-11-04,5,1083,49,Groceries,4,55.72,222.88,Credit Card,No,Yes
+675,2025-11-05,6,4845,36,Groceries,2,22.41,44.82,Credit Card,Yes,Yes
+676,2025-11-06,1,2682,68,Toys,4,21.65,86.6,Credit Card,No,Yes
+677,2025-11-07,5,2976,78,Toys,3,30.34,91.02,Cash,No,Yes
+678,2025-11-08,9,4524,41,Toys,1,91.17,91.17,Credit Card,No,No
+679,2025-11-09,2,2410,89,Clothing,3,55.19,165.57,Cash,Yes,Yes
+680,2025-11-10,1,2530,62,Toys,2,73.66,147.32,Credit Card,No,No
+681,2025-11-11,9,4328,10,Clothing,4,35.31,141.24,Digital Wallet,No,Yes
+682,2025-11-12,9,1569,21,Groceries,4,41.36,165.44,Cash,No,No
+683,2025-11-13,9,4963,36,Groceries,4,13.43,53.72,Cash,No,No
+684,2025-11-14,6,1933,12,Groceries,3,17.96,53.88,Credit Card,Yes,Yes
+685,2025-11-15,8,4598,91,Electronics,1,82.91,82.91,Credit Card,No,No
+686,2025-11-16,1,4233,2,Electronics,3,58.9,176.7,Cash,Yes,Yes
+687,2025-11-17,4,2980,13,Household,3,34.42,103.26,Digital Wallet,No,No
+688,2025-11-18,1,4234,53,Household,2,80.48,160.96,Digital Wallet,Yes,No
+689,2025-11-19,8,2855,32,Household,2,25.41,50.82,Credit Card,No,No
+690,2025-11-20,1,4056,95,Electronics,2,97.63,195.26,Digital Wallet,Yes,Yes
+691,2025-11-21,3,1792,16,Electronics,1,35.14,35.14,Digital Wallet,No,No
+692,2025-11-22,4,1791,32,Household,1,34.39,34.39,Credit Card,Yes,Yes
+693,2025-11-23,8,4595,32,Household,2,31.88,63.76,Digital Wallet,Yes,No
+694,2025-11-24,6,2809,98,Toys,2,13.09,26.18,Credit Card,Yes,No
+695,2025-11-25,7,2294,11,Household,1,12.0,12.0,Cash,No,No
+696,2025-11-26,8,3539,10,Toys,4,65.16,260.64,Credit Card,Yes,No
+697,2025-11-27,2,3255,15,Clothing,1,87.64,87.64,Cash,Yes,No
+698,2025-11-28,8,4610,17,Electronics,1,79.26,79.26,Cash,Yes,No
+699,2025-11-29,3,2607,40,Household,1,14.97,14.97,Digital Wallet,Yes,Yes
+700,2025-11-30,7,2083,18,Electronics,2,55.01,110.02,Digital Wallet,No,Yes
+701,2025-12-01,3,3477,55,Electronics,4,11.45,45.8,Digital Wallet,Yes,Yes
+702,2025-12-02,7,1984,73,Electronics,1,5.48,5.48,Credit Card,Yes,No
+703,2025-12-03,2,2680,25,Clothing,2,65.98,131.96,Digital Wallet,Yes,Yes
+704,2025-12-04,6,4676,59,Groceries,3,53.98,161.94,Cash,No,No
+705,2025-12-05,3,4380,78,Household,3,9.12,27.36,Digital Wallet,Yes,Yes
+706,2025-12-06,3,1519,89,Groceries,1,4.46,4.46,Digital Wallet,Yes,Yes
+707,2025-12-07,9,1590,22,Groceries,3,98.99,296.96999999999997,Credit Card,Yes,No
+708,2025-12-08,7,2050,30,Groceries,4,3.97,15.88,Credit Card,Yes,No
+709,2025-12-09,5,2709,84,Electronics,3,45.01,135.03,Cash,No,Yes
+710,2025-12-10,7,4633,85,Toys,3,50.96,152.88,Credit Card,Yes,Yes
+711,2025-12-11,9,3035,44,Electronics,4,12.61,50.44,Digital Wallet,Yes,Yes
+712,2025-12-12,1,3246,32,Electronics,1,17.74,17.74,Credit Card,No,Yes
+713,2025-12-13,7,3434,51,Groceries,1,35.83,35.83,Cash,No,No
+714,2025-12-14,6,1348,46,Electronics,4,76.41,305.64,Digital Wallet,No,Yes
+715,2025-12-15,9,1959,21,Groceries,4,51.2,204.8,Cash,Yes,No
+716,2025-12-16,1,2963,99,Toys,4,64.15,256.6,Credit Card,No,No
+717,2025-12-17,4,1692,32,Household,3,98.53,295.59000000000003,Credit Card,Yes,Yes
+718,2025-12-18,9,2559,94,Groceries,4,77.03,308.12,Cash,No,No
+719,2025-12-19,4,4899,39,Toys,2,44.0,88.0,Digital Wallet,Yes,Yes
+720,2025-12-20,3,1377,12,Household,3,45.2,135.60000000000002,Credit Card,No,No
+721,2025-12-21,9,3946,47,Clothing,1,62.26,62.26,Credit Card,Yes,No
+722,2025-12-22,2,3963,18,Groceries,1,66.87,66.87,Digital Wallet,No,Yes
+723,2025-12-23,4,4629,21,Groceries,1,50.57,50.57,Credit Card,Yes,No
+724,2025-12-24,6,1526,13,Clothing,3,64.84,194.52,Cash,Yes,No
+725,2025-12-25,2,4224,21,Clothing,2,3.33,6.66,Credit Card,Yes,Yes
+726,2025-12-26,8,3781,8,Groceries,4,43.53,174.12,Credit Card,Yes,No
+727,2025-12-27,8,3253,46,Clothing,4,28.61,114.44,Digital Wallet,Yes,No
+728,2025-12-28,1,3502,7,Electronics,1,13.79,13.79,Cash,Yes,Yes
+729,2025-12-29,3,4344,23,Household,1,10.86,10.86,Digital Wallet,Yes,Yes
+730,2025-12-30,9,4965,96,Household,3,60.72,182.16,Credit Card,Yes,No
+731,2025-12-31,5,2259,75,Household,2,52.84,105.68,Credit Card,No,No
+732,2026-01-01,6,2875,86,Electronics,4,26.1,104.4,Digital Wallet,Yes,No
+733,2026-01-02,4,2763,22,Clothing,3,47.62,142.85999999999999,Digital Wallet,Yes,Yes
+734,2026-01-03,2,1520,89,Toys,4,49.73,198.92,Digital Wallet,No,No
+735,2026-01-04,8,2701,22,Clothing,1,20.31,20.31,Cash,Yes,No
+736,2026-01-05,6,2016,92,Groceries,4,65.56,262.24,Credit Card,No,No
+737,2026-01-06,5,4003,29,Household,2,78.31,156.62,Digital Wallet,Yes,No
+738,2026-01-07,9,4902,13,Clothing,2,79.35,158.7,Credit Card,No,No
+739,2026-01-08,1,3773,82,Toys,1,60.64,60.64,Cash,No,No
+740,2026-01-09,5,2013,2,Groceries,2,51.65,103.3,Cash,Yes,Yes
+741,2026-01-10,6,3548,29,Electronics,2,7.04,14.08,Cash,No,Yes
+742,2026-01-11,5,1116,85,Electronics,3,29.5,88.5,Cash,Yes,No
+743,2026-01-12,6,3433,79,Toys,4,10.23,40.92,Credit Card,Yes,No
+744,2026-01-13,6,2367,52,Groceries,1,96.42,96.42,Cash,Yes,Yes
+745,2026-01-14,7,1583,27,Household,1,14.37,14.37,Cash,Yes,Yes
+746,2026-01-15,4,1394,50,Clothing,1,16.03,16.03,Digital Wallet,No,Yes
+747,2026-01-16,8,2087,95,Groceries,1,89.07,89.07,Cash,Yes,No
+748,2026-01-17,7,4788,79,Electronics,1,94.45,94.45,Digital Wallet,No,No
+749,2026-01-18,9,3768,23,Toys,2,76.82,153.64,Cash,No,No
+750,2026-01-19,7,1071,88,Toys,3,1.54,4.62,Cash,Yes,No
+751,2026-01-20,3,4860,44,Clothing,1,1.13,1.13,Digital Wallet,Yes,Yes
+752,2026-01-21,3,1273,77,Toys,3,38.43,115.28999999999999,Cash,Yes,Yes
+753,2026-01-22,8,3013,22,Toys,3,15.2,45.599999999999994,Credit Card,Yes,Yes
+754,2026-01-23,5,2343,43,Groceries,2,2.82,5.64,Credit Card,No,Yes
+755,2026-01-24,4,1337,37,Household,1,46.94,46.94,Cash,Yes,No
+756,2026-01-25,8,2389,61,Clothing,2,94.36,188.72,Credit Card,No,No
+757,2026-01-26,6,4566,97,Groceries,1,33.06,33.06,Digital Wallet,Yes,Yes
+758,2026-01-27,2,1606,56,Household,2,66.45,132.9,Cash,Yes,Yes
+759,2026-01-28,4,1165,3,Groceries,3,65.57,196.70999999999998,Cash,Yes,Yes
+760,2026-01-29,4,2567,63,Groceries,1,25.86,25.86,Digital Wallet,Yes,Yes
+761,2026-01-30,6,3058,19,Toys,4,65.39,261.56,Digital Wallet,No,Yes
+762,2026-01-31,6,2324,23,Household,3,22.02,66.06,Digital Wallet,No,No
+763,2026-02-01,1,1728,29,Clothing,4,13.08,52.32,Cash,Yes,No
+764,2026-02-02,8,3848,30,Clothing,3,70.44,211.32,Digital Wallet,No,Yes
+765,2026-02-03,6,3043,39,Household,2,12.23,24.46,Digital Wallet,No,Yes
+766,2026-02-04,3,1101,25,Toys,1,99.69,99.69,Credit Card,Yes,Yes
+767,2026-02-05,9,4496,8,Electronics,3,19.16,57.480000000000004,Credit Card,Yes,No
+768,2026-02-06,2,2415,58,Groceries,2,59.82,119.64,Cash,No,No
+769,2026-02-07,8,1778,16,Toys,1,41.73,41.73,Credit Card,No,No
+770,2026-02-08,3,1213,72,Household,1,13.51,13.51,Credit Card,No,Yes
+771,2026-02-09,5,4762,1,Groceries,3,3.76,11.28,Digital Wallet,No,No
+772,2026-02-10,6,2111,5,Clothing,1,62.65,62.65,Digital Wallet,Yes,Yes
+773,2026-02-11,6,2576,3,Electronics,3,80.87,242.61,Credit Card,Yes,No
+774,2026-02-12,4,3448,65,Clothing,1,84.36,84.36,Credit Card,No,No
+775,2026-02-13,3,3635,4,Household,4,48.79,195.16,Credit Card,Yes,No
+776,2026-02-14,4,3936,99,Groceries,2,77.97,155.94,Cash,No,Yes
+777,2026-02-15,1,4117,96,Household,4,67.61,270.44,Cash,No,Yes
+778,2026-02-16,4,2695,64,Groceries,3,72.7,218.10000000000002,Cash,Yes,No
+779,2026-02-17,1,4534,98,Toys,4,49.77,199.08,Credit Card,No,Yes
+780,2026-02-18,1,1591,89,Electronics,3,63.71,191.13,Credit Card,No,Yes
+781,2026-02-19,6,2333,10,Toys,1,80.75,80.75,Cash,Yes,Yes
+782,2026-02-20,5,2109,21,Toys,1,40.39,40.39,Cash,Yes,Yes
+783,2026-02-21,4,3139,46,Household,3,80.79,242.37,Credit Card,No,Yes
+784,2026-02-22,3,4731,91,Electronics,4,59.61,238.44,Digital Wallet,No,Yes
+785,2026-02-23,1,3720,27,Groceries,1,17.42,17.42,Cash,Yes,Yes
+786,2026-02-24,6,1713,66,Groceries,2,3.44,6.88,Credit Card,No,No
+787,2026-02-25,2,1935,41,Clothing,1,36.91,36.91,Credit Card,No,Yes
+788,2026-02-26,8,2951,13,Groceries,2,55.12,110.24,Digital Wallet,Yes,Yes
+789,2026-02-27,5,1241,9,Household,4,84.14,336.56,Credit Card,Yes,No
+790,2026-02-28,7,3043,36,Toys,2,13.62,27.24,Credit Card,Yes,No
+791,2026-03-01,2,4936,86,Toys,2,80.22,160.44,Cash,Yes,No
+792,2026-03-02,8,1001,90,Toys,2,86.44,172.88,Cash,Yes,No
+793,2026-03-03,2,3272,58,Electronics,2,15.92,31.84,Digital Wallet,Yes,Yes
+794,2026-03-04,4,3848,54,Groceries,1,85.31,85.31,Digital Wallet,No,No
+795,2026-03-05,1,2768,12,Household,2,99.15,198.3,Credit Card,No,No
+796,2026-03-06,5,2949,81,Electronics,1,72.96,72.96,Cash,Yes,Yes
+797,2026-03-07,9,3636,78,Clothing,2,78.69,157.38,Digital Wallet,Yes,Yes
+798,2026-03-08,1,3163,14,Household,3,99.45,298.35,Digital Wallet,No,Yes
+799,2026-03-09,9,4737,34,Household,4,60.94,243.76,Digital Wallet,No,No
+800,2026-03-10,8,1917,53,Household,2,31.48,62.96,Credit Card,No,Yes
+801,2026-03-11,6,4174,20,Toys,3,83.92,251.76,Cash,Yes,No
+802,2026-03-12,7,3241,75,Household,2,61.83,123.66,Digital Wallet,Yes,Yes
+803,2026-03-13,3,4237,16,Groceries,2,58.54,117.08,Cash,No,Yes
+804,2026-03-14,1,3918,95,Household,2,26.11,52.22,Digital Wallet,Yes,No
+805,2026-03-15,5,1089,70,Toys,3,75.88,227.64,Digital Wallet,Yes,Yes
+806,2026-03-16,2,2709,56,Household,4,9.09,36.36,Cash,Yes,Yes
+807,2026-03-17,5,3169,83,Clothing,3,92.5,277.5,Cash,No,Yes
+808,2026-03-18,8,1142,58,Clothing,4,33.26,133.04,Cash,No,Yes
+809,2026-03-19,9,4041,4,Toys,2,13.65,27.3,Credit Card,Yes,Yes
+810,2026-03-20,2,1105,4,Groceries,1,44.79,44.79,Digital Wallet,Yes,No
+811,2026-03-21,3,1886,20,Groceries,2,5.2,10.4,Credit Card,Yes,No
+812,2026-03-22,3,1427,10,Electronics,4,68.78,275.12,Cash,Yes,Yes
+813,2026-03-23,1,2328,24,Toys,3,90.37,271.11,Digital Wallet,Yes,No
+814,2026-03-24,8,2895,99,Household,2,83.89,167.78,Credit Card,No,No
+815,2026-03-25,6,2994,26,Toys,3,13.61,40.83,Digital Wallet,Yes,No
+816,2026-03-26,8,1316,37,Electronics,3,13.5,40.5,Credit Card,Yes,Yes
+817,2026-03-27,9,2986,85,Toys,3,81.53,244.59,Cash,Yes,Yes
+818,2026-03-28,5,1634,54,Toys,2,92.5,185.0,Credit Card,No,Yes
+819,2026-03-29,3,2925,21,Electronics,3,46.61,139.82999999999998,Digital Wallet,No,No
+820,2026-03-30,5,3056,74,Groceries,3,50.4,151.2,Digital Wallet,Yes,No
+821,2026-03-31,5,3821,38,Household,2,32.51,65.02,Digital Wallet,No,Yes
+822,2026-04-01,5,4144,46,Electronics,3,89.53,268.59000000000003,Digital Wallet,No,Yes
+823,2026-04-02,3,4430,4,Clothing,2,64.85,129.7,Cash,No,No
+824,2026-04-03,4,3270,60,Groceries,4,29.54,118.16,Credit Card,No,No
+825,2026-04-04,9,2439,57,Clothing,4,30.58,122.32,Cash,No,Yes
+826,2026-04-05,9,1552,45,Groceries,4,89.23,356.92,Cash,No,No
+827,2026-04-06,2,4441,20,Household,3,2.35,7.050000000000001,Cash,Yes,No
+828,2026-04-07,8,1715,17,Household,1,32.95,32.95,Digital Wallet,No,No
+829,2026-04-08,8,2287,71,Toys,1,55.88,55.88,Digital Wallet,No,No
+830,2026-04-09,7,4911,4,Clothing,3,15.67,47.01,Digital Wallet,Yes,No
+831,2026-04-10,8,2713,93,Groceries,1,10.12,10.12,Credit Card,Yes,No
+832,2026-04-11,3,2883,14,Household,2,81.71,163.42,Digital Wallet,Yes,No
+833,2026-04-12,6,4389,3,Electronics,1,89.55,89.55,Credit Card,Yes,Yes
+834,2026-04-13,1,2107,88,Household,3,82.54,247.62,Digital Wallet,No,Yes
+835,2026-04-14,7,2341,80,Electronics,3,89.98,269.94,Digital Wallet,No,No
+836,2026-04-15,1,1110,58,Groceries,2,55.76,111.52,Cash,No,No
+837,2026-04-16,9,1250,55,Household,4,81.41,325.64,Cash,No,No
+838,2026-04-17,1,3430,4,Household,3,39.02,117.06,Cash,Yes,Yes
+839,2026-04-18,1,3054,24,Groceries,2,66.96,133.92,Credit Card,No,Yes
+840,2026-04-19,7,1458,34,Household,1,98.89,98.89,Credit Card,No,No
+841,2026-04-20,2,2107,30,Electronics,1,23.35,23.35,Digital Wallet,Yes,Yes
+842,2026-04-21,5,1207,82,Household,2,39.6,79.2,Credit Card,No,No
+843,2026-04-22,8,1899,19,Clothing,2,48.52,97.04,Digital Wallet,No,No
+844,2026-04-23,8,4461,31,Toys,3,14.66,43.980000000000004,Credit Card,No,No
+845,2026-04-24,3,4385,60,Electronics,1,9.02,9.02,Credit Card,No,No
+846,2026-04-25,7,1021,60,Clothing,2,83.14,166.28,Credit Card,Yes,No
+847,2026-04-26,3,1409,19,Groceries,1,97.7,97.7,Cash,Yes,No
+848,2026-04-27,6,1894,49,Electronics,2,41.07,82.14,Credit Card,Yes,No
+849,2026-04-28,6,1514,63,Toys,1,9.68,9.68,Cash,Yes,Yes
+850,2026-04-29,3,4198,83,Toys,4,7.52,30.08,Cash,Yes,No
+851,2026-04-30,7,1808,22,Groceries,3,89.24,267.71999999999997,Credit Card,No,Yes
+852,2026-05-01,3,4771,24,Groceries,1,46.92,46.92,Digital Wallet,No,No
+853,2026-05-02,8,1873,76,Electronics,4,32.68,130.72,Digital Wallet,Yes,No
+854,2026-05-03,4,1013,30,Household,1,48.17,48.17,Digital Wallet,Yes,Yes
+855,2026-05-04,1,1970,58,Groceries,1,32.51,32.51,Credit Card,Yes,Yes
+856,2026-05-05,4,4025,31,Household,4,49.41,197.64,Digital Wallet,No,No
+857,2026-05-06,7,4061,64,Clothing,1,86.1,86.1,Cash,Yes,Yes
+858,2026-05-07,4,4083,19,Toys,1,59.64,59.64,Digital Wallet,No,No
+859,2026-05-08,6,3134,48,Household,3,69.77,209.31,Credit Card,No,No
+860,2026-05-09,9,4595,45,Toys,4,37.1,148.4,Digital Wallet,No,Yes
+861,2026-05-10,1,3956,94,Household,4,74.11,296.44,Cash,No,Yes
+862,2026-05-11,5,2560,55,Clothing,2,67.0,134.0,Credit Card,Yes,Yes
+863,2026-05-12,7,2324,55,Groceries,1,12.84,12.84,Digital Wallet,No,Yes
+864,2026-05-13,1,2266,97,Clothing,3,57.69,173.07,Credit Card,No,No
+865,2026-05-14,4,3169,18,Groceries,1,26.42,26.42,Credit Card,Yes,Yes
+866,2026-05-15,6,4218,63,Groceries,1,80.61,80.61,Credit Card,No,Yes
+867,2026-05-16,2,4638,92,Toys,2,43.17,86.34,Digital Wallet,No,Yes
+868,2026-05-17,5,1749,47,Clothing,1,99.47,99.47,Credit Card,No,Yes
+869,2026-05-18,1,4427,75,Household,3,10.16,30.48,Digital Wallet,Yes,Yes
+870,2026-05-19,6,1684,57,Clothing,3,78.25,234.75,Cash,No,No
+871,2026-05-20,6,2927,45,Toys,2,67.7,135.4,Digital Wallet,No,No
+872,2026-05-21,4,4804,33,Groceries,1,76.98,76.98,Cash,Yes,Yes
+873,2026-05-22,8,4702,17,Toys,3,31.45,94.35,Digital Wallet,Yes,Yes
+874,2026-05-23,4,3356,70,Electronics,1,49.71,49.71,Credit Card,No,No
+875,2026-05-24,8,1694,4,Electronics,1,79.85,79.85,Digital Wallet,No,Yes
+876,2026-05-25,8,3335,20,Household,1,24.02,24.02,Credit Card,Yes,No
+877,2026-05-26,5,1306,47,Toys,2,23.38,46.76,Cash,No,No
+878,2026-05-27,4,4883,91,Household,1,55.55,55.55,Digital Wallet,Yes,Yes
+879,2026-05-28,2,4665,15,Household,3,52.83,158.49,Credit Card,No,No
+880,2026-05-29,3,2989,70,Electronics,1,28.94,28.94,Cash,Yes,Yes
+881,2026-05-30,3,3961,47,Household,3,30.51,91.53,Cash,No,Yes
+882,2026-05-31,4,4794,78,Electronics,1,28.51,28.51,Digital Wallet,Yes,No
+883,2026-06-01,4,1661,75,Groceries,3,77.38,232.14,Cash,Yes,No
+884,2026-06-02,5,1548,9,Toys,3,65.54,196.62,Credit Card,Yes,Yes
+885,2026-06-03,4,4423,90,Household,1,83.41,83.41,Cash,Yes,No
+886,2026-06-04,8,1311,16,Electronics,1,97.57,97.57,Cash,Yes,Yes
+887,2026-06-05,6,3920,69,Clothing,3,47.94,143.82,Credit Card,No,No
+888,2026-06-06,6,2082,61,Household,4,7.6,30.4,Cash,No,No
+889,2026-06-07,8,4714,10,Groceries,2,5.76,11.52,Cash,Yes,Yes
+890,2026-06-08,7,3971,50,Groceries,4,30.27,121.08,Cash,No,Yes
+891,2026-06-09,8,2737,3,Clothing,4,93.32,373.28,Cash,No,Yes
+892,2026-06-10,2,1754,77,Electronics,1,52.8,52.8,Credit Card,No,No
+893,2026-06-11,9,1034,94,Household,2,27.91,55.82,Cash,No,Yes
+894,2026-06-12,1,1444,70,Electronics,4,40.52,162.08,Credit Card,No,Yes
+895,2026-06-13,8,3140,81,Groceries,1,60.26,60.26,Cash,No,No
+896,2026-06-14,4,2982,51,Electronics,4,65.64,262.56,Cash,Yes,No
+897,2026-06-15,4,2230,19,Groceries,4,16.24,64.96,Cash,No,Yes
+898,2026-06-16,5,1352,42,Electronics,1,97.73,97.73,Cash,No,Yes
+899,2026-06-17,8,1902,35,Clothing,1,54.93,54.93,Credit Card,No,Yes
+900,2026-06-18,5,2355,46,Toys,1,14.43,14.43,Credit Card,Yes,Yes
+901,2026-06-19,8,4888,26,Clothing,2,89.47,178.94,Credit Card,No,No
+902,2026-06-20,1,3909,69,Clothing,4,8.39,33.56,Digital Wallet,No,No
+903,2026-06-21,9,2748,93,Toys,1,90.87,90.87,Cash,No,Yes
+904,2026-06-22,6,1158,64,Toys,3,99.66,298.98,Cash,Yes,Yes
+905,2026-06-23,3,2977,37,Household,4,70.34,281.36,Credit Card,No,Yes
+906,2026-06-24,8,1956,84,Household,3,77.27,231.81,Digital Wallet,Yes,No
+907,2026-06-25,9,3071,49,Clothing,2,34.39,68.78,Cash,No,Yes
+908,2026-06-26,6,1403,21,Clothing,1,94.22,94.22,Credit Card,Yes,Yes
+909,2026-06-27,7,3852,74,Groceries,3,53.44,160.32,Cash,Yes,No
+910,2026-06-28,1,1515,64,Groceries,2,73.51,147.02,Cash,Yes,No
+911,2026-06-29,5,3779,5,Household,1,92.49,92.49,Credit Card,No,Yes
+912,2026-06-30,5,2387,70,Household,3,97.54,292.62,Credit Card,Yes,Yes
+913,2026-07-01,4,4453,90,Groceries,3,83.49,250.46999999999997,Cash,Yes,No
+914,2026-07-02,6,3579,4,Groceries,2,31.0,62.0,Cash,Yes,Yes
+915,2026-07-03,7,1955,39,Electronics,1,96.69,96.69,Credit Card,Yes,Yes
+916,2026-07-04,9,3199,35,Electronics,1,63.18,63.18,Cash,No,No
+917,2026-07-05,1,4633,1,Groceries,3,93.13,279.39,Cash,No,No
+918,2026-07-06,6,2712,24,Electronics,3,67.93,203.79000000000002,Credit Card,No,No
+919,2026-07-07,7,3994,57,Toys,3,31.42,94.26,Cash,No,Yes
+920,2026-07-08,3,1607,70,Household,1,37.63,37.63,Cash,Yes,No
+921,2026-07-09,8,4688,41,Household,2,55.5,111.0,Digital Wallet,No,No
+922,2026-07-10,5,3467,54,Groceries,2,79.21,158.42,Credit Card,Yes,Yes
+923,2026-07-11,9,2273,46,Clothing,1,32.48,32.48,Digital Wallet,No,Yes
+924,2026-07-12,5,4188,60,Groceries,4,58.39,233.56,Digital Wallet,No,No
+925,2026-07-13,9,3913,60,Electronics,2,35.22,70.44,Digital Wallet,No,No
+926,2026-07-14,4,2535,57,Clothing,3,81.76,245.28000000000003,Cash,Yes,Yes
+927,2026-07-15,9,4811,31,Electronics,4,47.21,188.84,Cash,No,Yes
+928,2026-07-16,5,3625,84,Toys,4,8.6,34.4,Digital Wallet,No,No
+929,2026-07-17,9,3382,24,Electronics,2,17.44,34.88,Digital Wallet,No,No
+930,2026-07-18,3,2441,89,Toys,4,7.05,28.2,Digital Wallet,Yes,Yes
+931,2026-07-19,4,3979,36,Toys,4,50.43,201.72,Cash,No,No
+932,2026-07-20,9,2797,85,Electronics,2,11.53,23.06,Digital Wallet,No,Yes
+933,2026-07-21,6,1294,30,Electronics,2,12.3,24.6,Digital Wallet,Yes,No
+934,2026-07-22,2,1754,24,Toys,4,94.16,376.64,Credit Card,Yes,Yes
+935,2026-07-23,7,2394,30,Clothing,3,87.39,262.17,Credit Card,No,Yes
+936,2026-07-24,2,1185,86,Toys,1,45.76,45.76,Cash,No,No
+937,2026-07-25,2,2269,92,Household,4,98.59,394.36,Credit Card,No,No
+938,2026-07-26,1,1636,7,Toys,4,1.02,4.08,Credit Card,Yes,Yes
+939,2026-07-27,3,2291,35,Clothing,3,61.78,185.34,Credit Card,Yes,No
+940,2026-07-28,6,4714,55,Household,4,62.03,248.12,Cash,Yes,No
+941,2026-07-29,8,4308,92,Groceries,4,46.29,185.16,Credit Card,No,No
+942,2026-07-30,9,1529,14,Groceries,1,40.3,40.3,Cash,Yes,Yes
+943,2026-07-31,7,4623,10,Clothing,1,46.08,46.08,Digital Wallet,No,No
+944,2026-08-01,4,3068,80,Toys,1,42.08,42.08,Credit Card,Yes,No
+945,2026-08-02,6,3958,16,Electronics,2,73.32,146.64,Cash,Yes,Yes
+946,2026-08-03,5,4808,54,Clothing,2,14.4,28.8,Credit Card,Yes,No
+947,2026-08-04,8,3914,95,Household,1,20.57,20.57,Digital Wallet,No,No
+948,2026-08-05,1,1793,89,Household,1,18.87,18.87,Cash,No,Yes
+949,2026-08-06,1,4591,77,Groceries,2,26.98,53.96,Cash,No,Yes
+950,2026-08-07,6,3147,70,Household,3,53.0,159.0,Cash,No,No
+951,2026-08-08,2,3799,44,Clothing,4,12.01,48.04,Digital Wallet,Yes,No
+952,2026-08-09,5,1477,73,Household,4,86.95,347.8,Digital Wallet,No,Yes
+953,2026-08-10,1,2622,45,Clothing,1,30.44,30.44,Digital Wallet,Yes,Yes
+954,2026-08-11,7,4369,56,Electronics,3,17.09,51.269999999999996,Cash,No,No
+955,2026-08-12,1,1939,84,Groceries,2,67.89,135.78,Digital Wallet,No,No
+956,2026-08-13,4,1525,82,Household,1,4.77,4.77,Credit Card,Yes,No
+957,2026-08-14,9,3381,57,Clothing,3,62.38,187.14000000000001,Digital Wallet,Yes,Yes
+958,2026-08-15,1,1001,21,Toys,3,70.12,210.36,Cash,No,No
+959,2026-08-16,4,1374,68,Groceries,3,22.28,66.84,Credit Card,No,Yes
+960,2026-08-17,6,3340,50,Electronics,2,5.15,10.3,Digital Wallet,Yes,Yes
+961,2026-08-18,6,3884,33,Clothing,2,37.0,74.0,Credit Card,Yes,Yes
+962,2026-08-19,8,4052,91,Electronics,4,10.76,43.04,Credit Card,Yes,No
+963,2026-08-20,1,1552,7,Electronics,4,12.53,50.12,Cash,Yes,No
+964,2026-08-21,7,3365,70,Household,3,26.17,78.51,Credit Card,Yes,No
+965,2026-08-22,1,2525,15,Household,3,30.25,90.75,Credit Card,No,Yes
+966,2026-08-23,7,2851,82,Clothing,2,53.47,106.94,Cash,No,No
+967,2026-08-24,3,1380,32,Toys,4,68.16,272.64,Cash,No,Yes
+968,2026-08-25,8,2646,75,Clothing,3,59.68,179.04,Cash,No,Yes
+969,2026-08-26,3,1013,20,Toys,4,15.69,62.76,Credit Card,Yes,Yes
+970,2026-08-27,1,1503,88,Electronics,4,18.04,72.16,Credit Card,Yes,Yes
+971,2026-08-28,8,3278,15,Groceries,3,88.0,264.0,Credit Card,Yes,Yes
+972,2026-08-29,3,3008,48,Clothing,2,56.28,112.56,Cash,No,Yes
+973,2026-08-30,2,4155,71,Clothing,3,87.12,261.36,Digital Wallet,Yes,No
+974,2026-08-31,1,1129,21,Toys,3,37.78,113.34,Credit Card,Yes,Yes
+975,2026-09-01,3,4814,42,Electronics,4,61.83,247.32,Digital Wallet,No,No
+976,2026-09-02,2,1837,26,Electronics,3,52.84,158.52,Cash,No,Yes
+977,2026-09-03,2,4216,14,Toys,2,32.59,65.18,Credit Card,No,No
+978,2026-09-04,6,3938,57,Electronics,3,47.52,142.56,Digital Wallet,Yes,No
+979,2026-09-05,1,4928,37,Household,2,50.75,101.5,Credit Card,Yes,No
+980,2026-09-06,2,3040,58,Groceries,2,20.88,41.76,Credit Card,No,No
+981,2026-09-07,6,1027,21,Clothing,4,32.19,128.76,Credit Card,No,Yes
+982,2026-09-08,3,3113,82,Groceries,1,79.35,79.35,Digital Wallet,Yes,Yes
+983,2026-09-09,4,4234,69,Clothing,1,91.66,91.66,Cash,No,Yes
+984,2026-09-10,1,2252,3,Household,4,36.62,146.48,Credit Card,Yes,Yes
+985,2026-09-11,8,1260,87,Electronics,3,31.39,94.17,Cash,No,No
+986,2026-09-12,7,3046,90,Toys,4,20.32,81.28,Cash,No,No
+987,2026-09-13,7,2472,37,Household,2,68.17,136.34,Digital Wallet,No,No
+988,2026-09-14,3,2447,88,Groceries,1,32.99,32.99,Digital Wallet,Yes,Yes
+989,2026-09-15,3,1459,49,Toys,4,98.79,395.16,Cash,Yes,No
+990,2026-09-16,2,4747,19,Electronics,3,33.24,99.72,Credit Card,No,Yes
+991,2026-09-17,1,1300,89,Household,4,40.02,160.08,Digital Wallet,Yes,No
+992,2026-09-18,7,3966,85,Toys,1,60.73,60.73,Credit Card,No,No
+993,2026-09-19,7,4374,12,Household,4,80.37,321.48,Credit Card,No,No
+994,2026-09-20,2,3334,61,Household,4,47.48,189.92,Credit Card,Yes,No
+995,2026-09-21,7,4466,41,Electronics,1,42.84,42.84,Cash,Yes,No
+996,2026-09-22,8,4081,33,Clothing,2,99.57,199.14,Credit Card,Yes,Yes
+997,2026-09-23,1,4778,50,Toys,2,2.04,4.08,Cash,Yes,No
+998,2026-09-24,9,1629,68,Electronics,1,89.61,89.61,Cash,No,Yes
+999,2026-09-25,7,1269,71,Household,4,15.76,63.04,Credit Card,Yes,Yes
+1000,2026-09-26,3,3639,86,Electronics,1,78.81,78.81,Credit Card,Yes,Yes

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: retail-model
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: retail-model
+  template:
+    metadata:
+      labels:
+        app: retail-model
+    spec:
+      containers:
+      - name: retail-model
+        image: gcr.io/your_project/retail-model:latest
+        ports:
+        - containerPort: 5000

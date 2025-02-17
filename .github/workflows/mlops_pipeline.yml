@@ -1,0 +1,30 @@
+name: MLOps Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  train-model:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Train model
+        run: python src/model_training.py
+      - name: Save model to MLflow
+        run: python src/model_registry.py
+
+  deploy-model:
+    needs: train-model
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy model to Vertex AI
+        run: python src/model_serving.py
