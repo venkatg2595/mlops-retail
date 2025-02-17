@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: retail-model
-        image: gcr.io/your_project/retail-model:latest
+        image: gcr.io/charismatic-age-451204-v4/retail-model:latest
         ports:
         - containerPort: 5000
